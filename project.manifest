@@ -1,0 +1,3073 @@
+{
+    "packageUrl": "http://j2nwskh4qa.vcdn.com.vn/mobile2/",
+    "searchPaths": [],
+    "assets": {
+        "res/CardGame/Poker/PlistPoker.plist": {
+            "md5": "4a5305081f508fc6c0b224783946f8a3"
+        },
+        "res/CardGame/ResXocDia/animation/Dealer1_animation/dealer1Plist.png": {
+            "md5": "1f183fbd6b71650f72c9d6c30d734b6b"
+        },
+        "src/Game/Minigame/TaiXiu/TXLichSuGiaoDich_en.jsc": {
+            "md5": "0d8e03d357c02add56c69a068ea51538"
+        },
+        "src/Game/MenuInfo/ListHuSlot_en.jsc": {
+            "md5": "e0a3241150c8d349c6fa36af738191f3"
+        },
+        "src/Game/MauBinh/Network/WebSocket_en.jsc": {
+            "md5": "09d7b8642e905ad3cdc91f042cbebc3b"
+        },
+        "src/Game/Slots/Avenger/AvengerHuongDan_en.jsc": {
+            "md5": "5ec20fee9cd67493af4b7673eba370a1"
+        },
+        "res/BanCa/version.manifest": {
+            "md5": "8e44e9a1582e280afc308994ab8c7b31"
+        },
+        "res/Minigame/ImageChung/Button_value.png": {
+            "md5": "b672ab90a0a3209fb82dc564f14bb4d3"
+        },
+        "src/Game/CoCaro/GameGui/PlayerDisplay_en.jsc": {
+            "md5": "e630c93a3ffe72f212b5ec662c5c5d89"
+        },
+        "res/CardGame/LaBai/labai_25.png": {
+            "md5": "039fba6adfbd88bebe85fa2bda385d30"
+        },
+        "res/Minigame/ImageChung/Button_value.plist": {
+            "md5": "68b807786cdbe5755e5ff9720c0b6d87"
+        },
+        "src/Game/Sam/Network/CmdSam_en.jsc": {
+            "md5": "18482e6c46a1d5cdfb603a26d3dced61"
+        },
+        "res/CardGame/ResXocDia/kick.png": {
+            "md5": "e30f7561ccef4ab96a4e067f8b94d873"
+        },
+        "script/debugger/actors/utils/TabSources.jsc": {
+            "md5": "9f466c5cd3342bdfbbc0c8b77ec6b1d4"
+        },
+        "res/CardGame/LaBai/labai_47.png": {
+            "md5": "2998ce56cd8c56e14c5e146975858120"
+        },
+        "res/Minigame/ImageChung/lopmo.png": {
+            "md5": "8b976560413669990f07b9d4a68202b1"
+        },
+        "res/ResourceMenuTab/Profile/Plist-Dua-Xe.png": {
+            "md5": "fb4ad168249dd95348429ae5da587dcf"
+        },
+        "res/SlotKhoBau/version.manifest": {
+            "md5": "3b9851865af16f77e2c66a2f342a2a91"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeChoiThu_en.jsc": {
+            "md5": "a33049dfe4c592a871551a5275f44600"
+        },
+        "res/CardGame/PokerTour/btnBannerTour.png": {
+            "md5": "5bb83cc0d7a80ceb2f9620bec30cef42"
+        },
+        "src/Engine/Network/OutPacket_en.jsc": {
+            "md5": "57cb3828ffe8193ec4ea75403de47559"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeAudio_en.jsc": {
+            "md5": "f029280934d80b9ecc9d4af2ca50c227"
+        },
+        "src/Game/Poker/GameGui/PokerScene_en.jsc": {
+            "md5": "fa970863eb47c26096bd86b6eec0a573"
+        },
+        "src/Game/Minigame/TaiXiu/TXChiTietPhien_en.jsc": {
+            "md5": "ac87dfcc2512e3fb84f9d723ce0cde2f"
+        },
+        "res/Minigame/PlistMiniGame.plist": {
+            "md5": "826bf2bb2f7c78734f4a09a6a330e83e"
+        },
+        "src/Game/MenuInfo/Shopping/TieuVinLayer_en.jsc": {
+            "md5": "3b7f12138a5ac692174ba9465d4b485a"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVienResponse_en.jsc": {
+            "md5": "8de31abda21a29295114682cd6fc920d"
+        },
+        "res/ResourceMenuTab/Vip/Vip_point.jpg": {
+            "md5": "18feee4dbd06674b89ab9dc035070f95"
+        },
+        "src/Game/MenuInfo/Sercurity/BaoMatDangNhapLayer_en.jsc": {
+            "md5": "a3f37adf45e4cab989c28ec14b712684"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinTheLeX2_en.jsc": {
+            "md5": "61d9cff0929c7c92326948d7643ed02d"
+        },
+        "res/ResourceMenuTab/ChuyenKhoan/PlistChuyenKhoan.png": {
+            "md5": "b7a58480e2517bd797fb4fabd1f24f62"
+        },
+        "res/NuDiepVien/version.manifest": {
+            "md5": "033dd076c04c8d19bfcb3853ee755467"
+        },
+        "res/Font/Roboto-Bold.ttf": {
+            "md5": "36b5bab58a18b9c924861a4ccbf1a790"
+        },
+        "script/debugger/actors/utils/ScriptStore.jsc": {
+            "md5": "52a85b61aa85ff0f4b2514930b5d892a"
+        },
+        "res/Font/UTM-Alexander.ttf": {
+            "md5": "9211e296e1403b395abceed20cd10eae"
+        },
+        "res/CardGame/ResXocDia/xocdia-25_s.png": {
+            "md5": "7fdb217945fd728d06a75335705e9933"
+        },
+        "res/CardGame/ResXocDia/xocdia11.png": {
+            "md5": "ce445c9adb27a9af4a59f193fb2eab36"
+        },
+        "script/jsb_common.jsc": {
+            "md5": "fe34e9472c9a73e93f690db901663835"
+        },
+        "src/Game/Lobby/Gui/QuenMatKhau/OtpQuenMatKhau_en.jsc": {
+            "md5": "e66cb683f10c28d07bdd886b6c8962f8"
+        },
+        "src/Game/PokerTour/GameGui/PlayerDisplay_en.jsc": {
+            "md5": "4f90602c00462e8402ec5e46dbf242d5"
+        },
+        "res/CardGame/LaBai/labai_31.png": {
+            "md5": "29dde310f0e8b2a7456055c2543abd75"
+        },
+        "res/MenuSlots/icon/nu_diep_vien.png": {
+            "md5": "9025c0725f1a1a20053faa8c4e4e12c1"
+        },
+        "src/Game/XiZach/Network/XiZachListener_en.jsc": {
+            "md5": "b8b9d1c6a42935fe62341c83a81f2989"
+        },
+        "res/MenuSlots/dung_click.png": {
+            "md5": "5aac39b4b410827894d79fb57cf39970"
+        },
+        "res/CardGame/MauBinh/PlistMauBinh.plist": {
+            "md5": "7cc2881e234ffa9e720e008234ddcfcf"
+        },
+        "src/Game/PokerTour/GameGui/BangXepHangTourItem_en.jsc": {
+            "md5": "0528cc2e12f3095b4e0f01101953e79a"
+        },
+        "res/CardGame/ResXocDia/Sound/Dong_ho_tic_tic.mp3": {
+            "md5": "aac8686151157d548faaf601427d9f43"
+        },
+        "src/Game/MauBinh/GUI/EffectLayer_en.jsc": {
+            "md5": "501758a3f72eda93fd3ccbae8b6b0d46"
+        },
+        "src/Game/CoTuong/Logic/Pieces/Chariot_en.jsc": {
+            "md5": "556b7bc1e3ab5e547c5c731ca15f1db2"
+        },
+        "res/ResourceMenuTab/Vip/PlistVip.plist": {
+            "md5": "83f59c8e00008a368a1b3552df2a9fe9"
+        },
+        "res/Font/Roboto-Regular.ttf": {
+            "md5": "5673da52c98bb6cb33ada5aaf649703e"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeTopUser_en.jsc": {
+            "md5": "f735cac10d0c99afd44f1d20bb8e7555"
+        },
+        "res/CardGame/ResXocDia/animation/Dealer2_animation/dealer2Plist.png": {
+            "md5": "319fd642afe8e89fe0f172073a621452"
+        },
+        "res/ResourceMenuTab/Guild/baucua.png": {
+            "md5": "3a8433a4c8aaf40a855264d766686bf0"
+        },
+        "res/Lobby/IconGame/baicao.png": {
+            "md5": "f5ff5025df16d51158318c9dc665f185"
+        },
+        "src/Game/MenuInfo/Sercurity/ConfigSercurity_en.jsc": {
+            "md5": "89543c8ea8d52347fc53946260ce9b6b"
+        },
+        "res/Popup/title.png": {
+            "md5": "d0b829d875c97279e4496b4793b2eabe"
+        },
+        "src/Game/MenuInfo/Shopping/ShoppingLayer_en.jsc": {
+            "md5": "240356640633738d882dab31e621d91c"
+        },
+        "res/Lobby/IconGame/samsolo.png": {
+            "md5": "b871beb1a2c45f250a44c71ffc1b1924"
+        },
+        "res/CardGame/PokerTour/PlistPokerTour2.png": {
+            "md5": "94687ed877a60cc5077580f8d1dd4eb2"
+        },
+        "res/chat/chatPlist.png": {
+            "md5": "4b6e1f2b407a18b3f308b7de191ba4e3"
+        },
+        "src/Engine/GUI/SceneMgr_en.jsc": {
+            "md5": "a2412df72908369f99da777aa31f6d03"
+        },
+        "src/Game/XocDia/Network/InPacket_en.jsc": {
+            "md5": "9bae983f48e983ae9578e9738e9f6ff4"
+        },
+        "src/Game/Lobby/Gui/QuenMatKhau/ForgetEmail_en.jsc": {
+            "md5": "5a7abab806a46fafb47ddf700ba25205"
+        },
+        "res/CardGame/LaBai/labai_51.png": {
+            "md5": "0011587610c0b7f1dd0c758758fe6839"
+        },
+        "src/Game/MauBinh/Logic/MauBinhUtility/MauBinhMathUtil_en.jsc": {
+            "md5": "dd9347f38dd8de3aba2b98a757c12aff"
+        },
+        "res/Sound/lose.mp3": {
+            "md5": "cdb70906dd7cab4c1ba74d3a112a37c4"
+        },
+        "res/CardGame/LaBai/labai_8.png": {
+            "md5": "6708bc2cb788775bc750120f1d10f22a"
+        },
+        "res/AvengerMiniGame.json": {
+            "md5": "800827ded1ab8fd6c142429c3ac28d69"
+        },
+        "src/Engine/GUI/BaseLayer_en.jsc": {
+            "md5": "01d0652c76126409a76477586679f9bd"
+        },
+        "src/Game/Poker/GameGui/PlayerDisplay_en.jsc": {
+            "md5": "0893e1bc8a4fabaac25e927c64c294c6"
+        },
+        "src/Game/Poker/Logic/Card_en.jsc": {
+            "md5": "5629c75ae4e2e62a5f4cd17150a76a88"
+        },
+        "res/BanCa/project.manifest": {
+            "md5": "5249fd103140745b8ebfd02d791c6b78"
+        },
+        "src/Components/TableLayer/LayoutControlTableView_en.jsc": {
+            "md5": "7e5d5834595ca2fa99468f6823ceae77"
+        },
+        "res/GameCo/CoTuong/checkKillEffect/a.png": {
+            "md5": "773d23518ff7c489800a59d48cca2f93"
+        },
+        "src/Game/PokerTour/GameGui/BangXepHangPoint_en.jsc": {
+            "md5": "6df5ada9cbc5fbd2aa2487668c794f5a"
+        },
+        "res/CardGame/ResXocDia/Sound/thu_tra_phing.mp3": {
+            "md5": "ff173008c0aee23fa5f3b21b53ba807d"
+        },
+        "src/Game/CoUp/GameGui/KhieuChien_en.jsc": {
+            "md5": "dd31affbcca42ba23244c8bbfd4ef22f"
+        },
+        "src/Game/XiZach/Network/InPacket_en.jsc": {
+            "md5": "8b40f537ac61754a605c22d48e4e715c"
+        },
+        "src/Game/MenuInfo/Event/BangXepHangLayer_en.jsc": {
+            "md5": "2daa3265f165b4b42d1aced100599366"
+        },
+        "src/Game/MenuInfo/LichSuGiaoDich/LichSuGDLayer_en.jsc": {
+            "md5": "efd4db9d96137181828bcc297c00f508"
+        },
+        "src/Game/CoUp/Logic/Pieces/Horse_en.jsc": {
+            "md5": "3e3e734befb087b237ee29a7af562c19"
+        },
+        "src/Game/Lobby/Gui/SubpotLayer_en.jsc": {
+            "md5": "6aa434a98bde0db9a088b8351cab2841"
+        },
+        "script/jsb_property_apis.jsc": {
+            "md5": "60eb3f493c524b0fb5e1e9696ded9306"
+        },
+        "res/NuDiepVien.json": {
+            "md5": "4a6ece74ceba9e067bd614a3b06d9485"
+        },
+        "res/Lobby/Default/Button_Disable.png": {
+            "md5": "fa79821349dd686f516187283bc2fb8c"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeListener_en.jsc": {
+            "md5": "8ab2fc0005deb3472de9874222bb847e"
+        },
+        "src/Game/PokerTour/GameGui/BangXepHangTour_en.jsc": {
+            "md5": "906954074e038619887cb970adc0fc03"
+        },
+        "res/MenuSlots/Plist_slots.png": {
+            "md5": "a9eee03d41f4870589b3639c21e7d622"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauHuongDan_en.jsc": {
+            "md5": "0268271caa0f22b30667c503e1a6febb"
+        },
+        "src/Game/Lieng/Network/InPacket_en.jsc": {
+            "md5": "7ad4dce7cbe2ed93890675366f029aba"
+        },
+        "src/Game/CoTuong/Network/CmdCoTuong_en.jsc": {
+            "md5": "e1959777ec90c4c3ae70fd07205498b1"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinLSGD_en.jsc": {
+            "md5": "5865279720283c168c94ca45b88c4da1"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/PlistVongQuayVip.png": {
+            "md5": "d589b621b9c59afdec74337fc0a35b87"
+        },
+        "src/Game/PokerTour/GameGui/PokerTourLobby_en.jsc": {
+            "md5": "c547ee468bd3f5fdc06bf384d5804f2b"
+        },
+        "res/CardGame/LaBai/labai_42.png": {
+            "md5": "3de6401804f8e1516a3ac1c65fa517e9"
+        },
+        "script/jsb_create_apis.jsc": {
+            "md5": "5f22ee9bdc29506e07177d91c3a96511"
+        },
+        "res/Minigame/ImageChung/time_event.png": {
+            "md5": "0f2cad9973f4c7f599d640c59eed99f5"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeBangThuong_en.jsc": {
+            "md5": "1e172daf6e83d8106cd05acf85764370"
+        },
+        "res/Lobby/logo.png": {
+            "md5": "921eda5ed502cc86710606b4ba26d12a"
+        },
+        "src/Engine/Purchase/InappPurchase_en.jsc": {
+            "md5": "00d5243b051e8ddf470177972fb7952c"
+        },
+        "res/Lobby/IconGame/lieng.png": {
+            "md5": "751c38f17f7162250402c180e98fc26c"
+        },
+        "res/Font/tahomabd.ttf": {
+            "md5": "41f6e2e95c82d92975d7dfe0127e2071"
+        },
+        "res/MenuSlots/Sound/giai_thuong.mp3": {
+            "md5": "b46a4334c247cb4faff12fa7eda2558f"
+        },
+        "res/common/particles/fire.png": {
+            "md5": "8e929d549b7ca731df0f51096431cab0"
+        },
+        "src/Game/MauBinh/Logic/MauBinhPlayerCard_en.jsc": {
+            "md5": "ab4b01e2de5997709482a7561daf5673"
+        },
+        "res/Lobby/IconGame/cocaro.png": {
+            "md5": "cc6e602994e0c7654f06e6a2b16c74c8"
+        },
+        "res/Minigame/ImageChung/iconVin.png": {
+            "md5": "8f143a09418bce540aa321b94e6ed8df"
+        },
+        "res/CardGame/MauBinh/PlistMauBinh.png": {
+            "md5": "e27d14c48570e43b151092c678e29135"
+        },
+        "res/CardGame/LaBai/labai_44.png": {
+            "md5": "14759a855ed2b2cf8488752331935dbb"
+        },
+        "res/ResourceMenuTab/Shopping/TheDT/PlistTheDT.plist": {
+            "md5": "bc6eb84a99e6c2d2534eb077b4c2be30"
+        },
+        "res/LoadingUI/light.png": {
+            "md5": "5b323812a5e5fd63ca164ec4ad5f8f39"
+        },
+        "res/chat/chat_bg.png": {
+            "md5": "ef12b253e7fe49340cff386b1c7c8d16"
+        },
+        "res/ResourceMenuTab/Vip/RongLua.png": {
+            "md5": "a92da30000b3d35d3beddca16767bca7"
+        },
+        "src/Game/PokerTour/GameGui/ChiTietTour_en.jsc": {
+            "md5": "610c546c355e50234d846b789ae7f07e"
+        },
+        "res/common/PlistCommon.png": {
+            "md5": "c76280a8e161d020912f8c33a67ba4c2"
+        },
+        "res/CardGame/CommonResource/MoiChoi/bgMoiChoi.png": {
+            "md5": "bf5d0dd37fe1772e1214d4d16a0219ad"
+        },
+        "src/Game/Slots/Network/SlotWebSocket_en.jsc": {
+            "md5": "016446640498e1409334cec344b0e2cd"
+        },
+        "res/Minigame/ImageChung/bg_mo.png": {
+            "md5": "3429f89681be6f92bffef1797d6c2bcc"
+        },
+        "src/Game/MenuInfo/Shopping/ChuyenKhoanLayer_en.jsc": {
+            "md5": "20ed9bdc07d1e0aefc934af269fbce43"
+        },
+        "src/Game/Minigame/MiniGameBaseLayer_en.jsc": {
+            "md5": "72a1a871bc3004c5005786e6f656ce2b"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/InfoConfig.xml": {
+            "md5": "60be93d482c110c0ab3840d1e2287a40"
+        },
+        "src/Game/Networks/TaixiuSocket/cmdDefine_en.jsc": {
+            "md5": "c405650bc4d341f7c34eb44092dda076"
+        },
+        "res/Lobby/Default/ImageFile.png": {
+            "md5": "8b8ddbe2391511ba6e05d975dd2d9dba"
+        },
+        "src/Game/Networks/urlDefines_en.jsc": {
+            "md5": "d9e64f9d78b648d4f7744c0a25265eac"
+        },
+        "src/Game/GuiCommon/TopCellItem_en.jsc": {
+            "md5": "08974826d7193eedc9e877c8db55c90e"
+        },
+        "src/Game/GuildEvent/guildBauCua_en.jsc": {
+            "md5": "7e5162326efeab01b10552b1c35c6219"
+        },
+        "res/CardGame/ResXocDia/xocdia-22_1.png": {
+            "md5": "65e9c2a0f5d79509640a18d8df149701"
+        },
+        "src/Game/MenuInfo/Shopping/NapVinFromSMS_en.jsc": {
+            "md5": "676ecc39cee2f0525bcef4b326de83fb"
+        },
+        "res/MenuSlots/icon/vuong_quoc_vin.png": {
+            "md5": "3ce35355dfac852d91e8a86ba0db3c12"
+        },
+        "src/Game/Slots/Avenger/AvengerTheLeX2_en.jsc": {
+            "md5": "cbf10ce6fdf9e08a05416a619a15efe5"
+        },
+        "src/Game/GuildEvent/guildDieuKhoan_en.jsc": {
+            "md5": "03a46160ee274d9fb694e5524e56beef"
+        },
+        "res/Lobby/bg_chat.png": {
+            "md5": "e63262d6259e32e770710959aca2df62"
+        },
+        "res/Minigame/ImageChung/Bg_AllBang.png": {
+            "md5": "9c8088cb0512b3910f0d391fd48ce2cb"
+        },
+        "res/CardGame/ResXocDia/xocdia-25.png": {
+            "md5": "bc0538eb73f66933dbb2405376f038db"
+        },
+        "src/Game/MenuInfo/Sercurity/KetAnToanLayer_en.jsc": {
+            "md5": "4f30afb05de5ed20cf01669beb0ce00f"
+        },
+        "src/Game/Poker/Network/PokerSocketClient_en.jsc": {
+            "md5": "0cbc2a38bfdf4ec4171695aee60010cd"
+        },
+        "res/ResourceMenuTab/Mail/PlistMail.plist": {
+            "md5": "5712ce4ec4cba4b448c172872df49b03"
+        },
+        "res/Minigame/ImageChung/bg_soicau1.png": {
+            "md5": "69bf6327957d25d2a05d41d04f0c77f3"
+        },
+        "script/studio/parsers/timelineParser-2.x.jsc": {
+            "md5": "5e8bdc4f513604a87d94a8fff4bab68d"
+        },
+        "src/Game/MauBinh/GUI/CheatCardGui_en.jsc": {
+            "md5": "fac2497dfee8865b364e6969b9348d75"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_04.png": {
+            "md5": "5332ddc1cfbd6c7b24b66074e6b13a3c"
+        },
+        "res/Lobby/manvipclub.png": {
+            "md5": "a80ece62ccaa9321bee726cc85880aae"
+        },
+        "res/CardGame/ResXocDia/animation/Dealer3_animation/dealer3Plist.plist": {
+            "md5": "a2ca0a000d624b35eaa68bec055fdfa3"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinListener_en.jsc": {
+            "md5": "8ab2fc0005deb3472de9874222bb847e"
+        },
+        "res/Sound/tictoc.mp3": {
+            "md5": "fec83d9379fcec31066128f89c7db4d9"
+        },
+        "res/Font/UTM_Swiss_CondensedBold.ttf": {
+            "md5": "cb756e444c81c3490adfb9e6b540e2f5"
+        },
+        "script/ccui/jsb_ccui_property_apis.jsc": {
+            "md5": "81e1ac59bf53a41b4bca66db9b17a082"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_09.png": {
+            "md5": "7e7ebee5fb8d70e1dbcd890d2f1a86d9"
+        },
+        "src/Game/MenuInfo/MenuTab/Content/UserManagerDefine_en.jsc": {
+            "md5": "d2348ef8377ee71c90a111abcac4b9f1"
+        },
+        "res/CardGame/ResXocDia/xocdia02.png": {
+            "md5": "fa9a35d7e1f35220283e2343cb001889"
+        },
+        "src/Game/MenuInfo/Sercurity/SmsPlusLayer_en.jsc": {
+            "md5": "31dd19a6a6dd52acf79e6e4a2d33f1c4"
+        },
+        "src/Game/Slots/DeCheThanhRome/Particle/DCTRParticle_en.jsc": {
+            "md5": "faf2f35375920283639f311462b885eb"
+        },
+        "script/navmesh/jsb_navmesh.jsc": {
+            "md5": "cada043b9c825f59441a964097f008dd"
+        },
+        "src/Game/Lobby/Content/ChatDefine_en.jsc": {
+            "md5": "3537e6b92d9253e5abfae0a10ff2178f"
+        },
+        "res/CardGame/ResXocDia/bg_user.png": {
+            "md5": "6d1c914dcfad0e303e3a2575580d0b75"
+        },
+        "src/Game/CoUp/GameGui/DanhSachQuanAn_en.jsc": {
+            "md5": "0ba3695efcb37f3fdb3bbf5e243db753"
+        },
+        "src/Game/TienLen/LogicGame/GameLogic_en.jsc": {
+            "md5": "fc0ce48ee5218141e7006dd03d357b4c"
+        },
+        "src/Game/BaiCao/Network/OutPacket_en.jsc": {
+            "md5": "800762d4ac178601715f03c8caa8a6c1"
+        },
+        "res/CardGame/ResXocDia/dealer_3.png": {
+            "md5": "100035a461d6e4e52f707f150afeb42b"
+        },
+        "script/jsb_boot.jsc": {
+            "md5": "97523aa7661a0b8bd72b82f29f13df61"
+        },
+        "res/ResourceMenuTab/Profile/Plist-Dua-Xe.plist": {
+            "md5": "0755bdd312bc0c763f64367b3efbf13c"
+        },
+        "res/ResourceMenuTab/Guild/minislot3.png": {
+            "md5": "733558047ebcdb763e89d27dd6e63b1e"
+        },
+        "res/CardGame/CommonResource/BanChoi/bg_banchoi_nen.png": {
+            "md5": "cce64b8ab5a20ac39e49121c56cf1a60"
+        },
+        "src/Game/MauBinh/Logic/MauBinhPlayerMgr_en.jsc": {
+            "md5": "b0e6e0d93112f0ef1716bb6760f4ea6f"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauTopUser_en.jsc": {
+            "md5": "0881124656b778b48a774613dd5a44d2"
+        },
+        "src/Game/Minigame/CaoThap/codeCaoThap_en.jsc": {
+            "md5": "e7574505b2ec0447cc51fadd6d6f8a04"
+        },
+        "res/SlotsKhoBau.json": {
+            "md5": "ac78729c5fea7e3ac177c891b6d34f85"
+        },
+        "res/GameCo/CoUp/latquando.plist": {
+            "md5": "7226029b90a1acc5cbc7247bc5094e4e"
+        },
+        "res/CardGame/ResXocDia/thay_dealer.png": {
+            "md5": "11c5a462ec808e7bbecbcc514bd64383"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauListener_en.jsc": {
+            "md5": "72c45892e221744151b92f820fba1be9"
+        },
+        "src/Game/Lobby/Gui/PokerTourButton_en.jsc": {
+            "md5": "a9da54f20376516e9360ffbbecfae9a3"
+        },
+        "res/CardGame/LaBai/labai_35.png": {
+            "md5": "b68f492403edc08fecd6ae12c680a6a5"
+        },
+        "src/Game/MenuInfo/Shopping/MuaTheGameLayer_en.jsc": {
+            "md5": "a28b7bf516f71fe5edeee57c34f205cb"
+        },
+        "res/CardGame/CommonResource/BanChoi/bg_layer_banchoi.png": {
+            "md5": "ac9b95f9da5c85eaf195cc1beb6a22b0"
+        },
+        "src/Game/GuiCommon/GameLobby_en.jsc": {
+            "md5": "59b5a6e53561ad2e7610af2625ca7878"
+        },
+        "src/Game/PokerTour/GameGui/BangVinhDanhJacPot_en.jsc": {
+            "md5": "4fff7f85de8092e90605c9bf23c0f813"
+        },
+        "src/Game/MauBinh/Logic/MauBinhDefine_en.jsc": {
+            "md5": "4e7833dea8f242a0aa4064fca3328d44"
+        },
+        "src/Game/CoUp/GameGui/PieceGui/PieceDisplay_en.jsc": {
+            "md5": "f679887457014cb300be0acecf595ee9"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeResponse_en.jsc": {
+            "md5": "0157e142fe8082ddce64a36a64deca16"
+        },
+        "res/Lobby/PlistLobby.plist": {
+            "md5": "8e39d5a8f7619effce12e3af992eefcd"
+        },
+        "src/Game/Lobby/Gui/ItemGameBai_en.jsc": {
+            "md5": "c33d1c4dd24210d6a284a00f8089c65b"
+        },
+        "res/ResourceMenuTab/muchu-s.png": {
+            "md5": "8ac984c474f19cd5214a5e05e96576db"
+        },
+        "src/Game/GuiCommon/NoHuLayer_en.jsc": {
+            "md5": "07019e1672c381d1bb1ccc944b7f77a0"
+        },
+        "script/debugger/actors/root.jsc": {
+            "md5": "3241d1b520d1016e3389dc64454f944b"
+        },
+        "res/ResourceMenuTab/Shopping/PlistShopping.plist": {
+            "md5": "81e3e1c44c7b9933223836e2b1137aa4"
+        },
+        "res/Sound/chieutuong.mp3": {
+            "md5": "85ab76c7aadcf29189cd6eb0c617311d"
+        },
+        "src/Game/MenuInfo/Shopping/NapTienTraTruocLayer_en.jsc": {
+            "md5": "d5f07d20b21c943706a0e4713e8c49fa"
+        },
+        "src/Game/CoTuong/GameGui/PieceGui/PieceDisplay_en.jsc": {
+            "md5": "c7a94d4bd10c2e3badb73ad94820eb93"
+        },
+        "res/CardGame/LaBai/labai_37.png": {
+            "md5": "72f0ed63c303e955c71333821f1c7af1"
+        },
+        "script/jsb_pool.jsc": {
+            "md5": "c3d104c2313f35ab7b7b1f7aa8434c4b"
+        },
+        "src/Game/CoCaro/Network/CmdCoCaro_en.jsc": {
+            "md5": "8f20a7f16a8024465835a617fa49314a"
+        },
+        "src/Game/CoUp/Logic/CoUpTile_en.jsc": {
+            "md5": "d0ab5ba20c230ad9fdc8f90e1545c060"
+        },
+        "res/GameCo/Caro/CaroPlist.plist": {
+            "md5": "ecaeb5688556f8351ab59733eec17254"
+        },
+        "src/Game/Networks/TaixiuSocket/TaixiuSocket_en.jsc": {
+            "md5": "020fe12ba23f38030854174beef54bac"
+        },
+        "src/Game/MenuInfo/code_event_vip_guild_en.jsc": {
+            "md5": "23f469c817ce9844d3fae55bd20847b8"
+        },
+        "script/chipmunk/jsb_chipmunk_constants.jsc": {
+            "md5": "6c7fa8d30c7d4cc77c1246836d6e27d8"
+        },
+        "res/ResourceMenuTab/Vip/table_event.png": {
+            "md5": "77d84e36f24de64c833286020471a6df"
+        },
+        "res/MenuSlots/dang_quay_02.png": {
+            "md5": "589437783947c3471755a43991cb12c6"
+        },
+        "res/CardGame/ResXocDia/animation/Dealer1_animation/dealer1Plist.plist": {
+            "md5": "84f2c80ed3ec488cbfb8a1abeb08ba31"
+        },
+        "src/Game/Lieng/GameGui/LatBaiLayer_en.jsc": {
+            "md5": "897c2d553fd06fd14800e6056715941a"
+        },
+        "res/Lobby/IconGame/vuongquocvin.png": {
+            "md5": "4e23790d82cba9eb546d0fcf2aac24d4"
+        },
+        "res/CardGame/CommonResource/BanChoi/nenChienThang.png": {
+            "md5": "34f085399491c3b7daaf27af52ea526a"
+        },
+        "src/Game/BaiCao/BaiCaoLogic/BoBaiCao_en.jsc": {
+            "md5": "450bacd464ef7bf6439e1444d7e1af34"
+        },
+        "res/Minigame/ImageChung/bg_thong_bao.png": {
+            "md5": "59f1173360e5dd0ea3921927eeaab1ed"
+        },
+        "src/Engine/Social/SocialManager_en.jsc": {
+            "md5": "3f99479ffe127faea5626d1c2aa8f2c8"
+        },
+        "src/Game/Slots/Avenger/AvengerTopUser_en.jsc": {
+            "md5": "74817ba97bb6356da364ebd31820ef97"
+        },
+        "src/Game/Slots/Avenger/AvengerResponse_en.jsc": {
+            "md5": "72978ea51fc2a18613c97a6bb74642fd"
+        },
+        "src/Game/Sam/Constant_en.jsc": {
+            "md5": "d653749b525293da9ae3b8e496ff6adf"
+        },
+        "src/Game/CoUp/Constants_en.jsc": {
+            "md5": "032b44e89769a7f320de6ea0cc027560"
+        },
+        "src/Game/GuiCommon/TopGameLayer_en.jsc": {
+            "md5": "9506f2df46153e1292d2b10c42ed32ac"
+        },
+        "src/Game/CoUp/GameGui/NodeStart_en.jsc": {
+            "md5": "1f9955fd78b474bebcfb5e50e4316cc9"
+        },
+        "src/Game/CoTuong/Logic/Pieces/Guard_en.jsc": {
+            "md5": "8547204d2aa82944074ceb63233cc656"
+        },
+        "res/CardGame/Poker/PlistPoker.png": {
+            "md5": "f67ef9f6086cd1c923d6cf8d942b507e"
+        },
+        "res/Lobby/IconGame/cotuong.png": {
+            "md5": "828f7935b175432131be41afc73566ca"
+        },
+        "res/LoadingUI/bar.png": {
+            "md5": "605fb740ff3995377ac5c877a6a665ed"
+        },
+        "res/KBTheLeX2.json": {
+            "md5": "2bbf024dd89660a0a69162ed7d906cd8"
+        },
+        "res/Font/font_time-export.png": {
+            "md5": "7cff6736897aa99d1cd1ba1ebc6d23e2"
+        },
+        "src/Game/XocDia/codeXocDia_en.jsc": {
+            "md5": "ed1a796f1a65111e88371f8414d91808"
+        },
+        "res/Avenger/version.manifest": {
+            "md5": "440863986f72efa0758d612765b07ed6"
+        },
+        "res/CardGame/LaBai/labai_10.png": {
+            "md5": "3251b66cba36e7350afe370038662c4b"
+        },
+        "res/Minigame/ImageChung/number_s.png": {
+            "md5": "cdc6a3813ad13b79cdb35e15b1bd3bec"
+        },
+        "res/Minigame/ResMiniPoker/project.manifest": {
+            "md5": "8548bcb2168cd6e6e73694a0c5156c34"
+        },
+        "res/Lobby/IconGame/maubinhtinhat.png": {
+            "md5": "752051e25ead0d45b8b21280e1d30fcf"
+        },
+        "res/CardGame/CommonResource/DiemBoBai/diem3Cay/bg_sap.png": {
+            "md5": "7a4b98c65feabdf486ff2b056b18431c"
+        },
+        "src/Game/Slots/UI/ItemMenuSlots_en.jsc": {
+            "md5": "1e615e0853fe68ece286f04c1df8e5c4"
+        },
+        "res/VuongQuocVin/project.manifest": {
+            "md5": "13281191f16f59c2d5534b519fb571fb"
+        },
+        "res/CardGame/PokerTour/PlistPokerTour.plist": {
+            "md5": "f0ff732e9606cefd9e00b07fb59671be"
+        },
+        "res/CardGame/Poker/poker112016-37.png": {
+            "md5": "5c1fbd98df7e1bde0555debc0eeb8868"
+        },
+        "src/Game/CoTuong/Network/OutPacket_en.jsc": {
+            "md5": "4faa6c7c998f68be702a64ce7c941a2d"
+        },
+        "res/CardGame/LaBai/labai_49.png": {
+            "md5": "ae40db3edf4ad8b4e35fd38dc287f3c3"
+        },
+        "src/Game/XocDia/Network/XocDiaSocket_en.jsc": {
+            "md5": "fbbf7166b8851b1b2110a96b1c51a05a"
+        },
+        "src/Game/MenuInfo/QuyDinh/QuyDinhLayer_en.jsc": {
+            "md5": "1e6b56ee6f7659f2300297f41442c3ed"
+        },
+        "res/ResourceMenuTab/PlistResourceMenuTab.png": {
+            "md5": "ad97e40f442e7ead7a0bdd9d42ff839f"
+        },
+        "src/Game/BaiCao/Network/BaiCaoWebSocket_en.jsc": {
+            "md5": "52ea851669ebb83c6bc8b5ba3c9fd50d"
+        },
+        "res/Font/Roboto-Black.ttf": {
+            "md5": "1a00134f7baf6a4783dc1135145a361b"
+        },
+        "res/CardGame/LaBai/labai_46.png": {
+            "md5": "bf955348a270b363a3031dc112a87d96"
+        },
+        "src/Game/Slots/Network/SlotsSocketListener_en.jsc": {
+            "md5": "60dea54a41d6c8e68982b36432e78f7d"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinChoiThu_en.jsc": {
+            "md5": "c4f7fc1974357c0d05cc7b048ab1b14c"
+        },
+        "res/KBBangThuong.json": {
+            "md5": "68af5bc0b03042e6b620156d16511703"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeTheLeX2_en.jsc": {
+            "md5": "ffb74ee7f52d8314febfe343a1080b91"
+        },
+        "res/NDVLichSuGiaoDich.json": {
+            "md5": "e7235c9b45d71e4f5ce502a9c6fffede"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVienTheLeX2_en.jsc": {
+            "md5": "10449bcc6c2c52ee4c8a564f7078b0da"
+        },
+        "script/ccui/jsb_cocos2d_ui.jsc": {
+            "md5": "c8c260024020771bc3839c6756624d98"
+        },
+        "src/Game/XiZach/GameGui/PlayerDisplay_en.jsc": {
+            "md5": "28c681b39b5439d677e05eb649bea6bd"
+        },
+        "src/Game/GuildEvent/guildCaoThap_en.jsc": {
+            "md5": "7af04d348e619998b8d4844b612a325a"
+        },
+        "src/Components/TableLayer/LayoutTabView_en.jsc": {
+            "md5": "cce43d9276edca402b4880c2d3a2a2ee"
+        },
+        "src/Game/Minigame/MiniSlot/codeSlot3Hang_bangthanhtich_en.jsc": {
+            "md5": "ead71e185f0d6662b8666d35a74b541e"
+        },
+        "res/ResourceMenuTab/Guild/minislot1.png": {
+            "md5": "b5b307003122412582b01274c7b02cbd"
+        },
+        "res/CardGame/LaBai/labai_18.png": {
+            "md5": "d2d97042d86b5efc5ed25119c4c7171a"
+        },
+        "res/ResourceMenuTab/Mail/bgtab_mail.png": {
+            "md5": "75f1d0e823a2b67b8ac4ec7e0d738291"
+        },
+        "src/Game/GuiCommon/MoiChoiLayer_en.jsc": {
+            "md5": "698a552df46fa70787516bf59e944d04"
+        },
+        "src/Game/TienLen/GuiGame/CardSprite_en.jsc": {
+            "md5": "9dc8cbf5eb3f743ef0ae9e444d646721"
+        },
+        "res/Lobby/Default/Sprite.png": {
+            "md5": "380f19a83e69524450a3fc2b466dc275"
+        },
+        "src/Game/BaCay/GameGui/Effect/EffectLayer_en.jsc": {
+            "md5": "25f1a772d994399a75a5d55aa46ae26e"
+        },
+        "src/Game/GameUtility/gameUtility_en.jsc": {
+            "md5": "e2e2f9e5e03628baf459af72ce6a13cb"
+        },
+        "src/Game/Minigame/TaiXiu/TaiXiu_en.jsc": {
+            "md5": "2579e30fc73c0f5d8a867c038ae03453"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeContent_en.jsc": {
+            "md5": "12650c9e18bd36910226b12dccb4c9b0"
+        },
+        "src/Game/CoCaro/Logic/Logic_en.jsc": {
+            "md5": "2970e9b18611f58f6a2543564d899f65"
+        },
+        "res/Avenger.json": {
+            "md5": "193c8fcea01a7e13900d71271f57bf59"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVienHuongDan_en.jsc": {
+            "md5": "ce52190e2f0d6904aa1d3d1d51f13a66"
+        },
+        "res/Minigame/ImageChung/number_back.png": {
+            "md5": "3993aa5e4901ef913661af80d6c2c128"
+        },
+        "src/Game/MauBinh/Network/GameListener_en.jsc": {
+            "md5": "3c2bd74743abc3702bfd21685f036843"
+        },
+        "res/Minigame/BauCua/project.manifest": {
+            "md5": "b9458f1a823a97d83fcc5e87251d468b"
+        },
+        "res/Base/Lobby/GUI/mobile-lobby-bg.jpg": {
+            "md5": "c359d1150a9a4c14047734afb60cce76"
+        },
+        "res/Lobby/bg_chat_new.png": {
+            "md5": "b77ec8d19ea6f9c0fc819d0ce0d602a2"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinBangThuong_en.jsc": {
+            "md5": "f195e26184559fc00b5130b0619df885"
+        },
+        "src/Game/BaCay/BaCayLogic/BoBaCay_en.jsc": {
+            "md5": "72976025609133f80ba003f1ca554496"
+        },
+        "src/Game/Minigame/TaiXiu/TXcolor_en.jsc": {
+            "md5": "05021de4f491ad6e3404139d57e67c3f"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_010.png": {
+            "md5": "5332ddc1cfbd6c7b24b66074e6b13a3c"
+        },
+        "src/Game/Minigame/BauCua/BCLichSuGiaoDich_en.jsc": {
+            "md5": "47ad1a5bb039a708d76a772e417c4578"
+        },
+        "res/Lobby/bg_tendangnhap1.png": {
+            "md5": "6c34a76f938de073e739eb5357e8cce3"
+        },
+        "res/LoadingUI/rota2.png": {
+            "md5": "8a1f00dfb8bb866c8b879667d8e8bd56"
+        },
+        "src/Game/CoTuong/Network/CoTuongWebSocket_en.jsc": {
+            "md5": "4d78f690a50e1b648bf5453a30233a88"
+        },
+        "src/Game/Poker/Network/InPacket_en.jsc": {
+            "md5": "08b2f1423fcd2263cccf35cd98008d00"
+        },
+        "res/Font/XengFont01/XengFont2_gold-export.png": {
+            "md5": "acc5ef197a4c30e524d46d1b2809fbfe"
+        },
+        "src/Game/Sam/LogicGame/Player_en.jsc": {
+            "md5": "2f29d75823cba603a33f1424601b2de5"
+        },
+        "res/Minigame/ResCaoThap/version.manifest": {
+            "md5": "6aa40783c9c26a2a38de35d4992ef9d5"
+        },
+        "res/ResourceMenuTab/Mail/PlistMail.png": {
+            "md5": "0c2302835dd4aceb8bbad234f9f0c048"
+        },
+        "res/CardGame/LaBai/labai_28.png": {
+            "md5": "8323d608573e884d8319ed126393af14"
+        },
+        "src/Game/PokerTour/GameGui/BangThanhTich_en.jsc": {
+            "md5": "d9587c910af1b565edd94bb86b6b651a"
+        },
+        "src/Game/Minigame/MiniSlot/codeSlot3Hang_en.jsc": {
+            "md5": "6c3b6973d7f131ea80b5f77be96e31a4"
+        },
+        "res/NDVTopNoHu.json": {
+            "md5": "3dbee309d9796262136f317040fb1803"
+        },
+        "src/Game/Slots/Network/NetWorkUtils_en.jsc": {
+            "md5": "f4c4579d251e84b794660f2105943bf5"
+        },
+        "src/Game/TienLen/LogicGame/GameHelper_en.jsc": {
+            "md5": "08edb32cec0acba4286e489a80bf8fea"
+        },
+        "src/Game/Lieng/GameData/Constant_en.jsc": {
+            "md5": "c492d7d16214dcfed84dd2cf6cf1401b"
+        },
+        "src/Game/Minigame/BauCua/bauCua_en.jsc": {
+            "md5": "5a54baf13c3a1e02cee71cf63aff902e"
+        },
+        "src/Game/Lobby/Gui/ChatPanelLayer_en.jsc": {
+            "md5": "7d1a805cae994a42e8c0062504230d07"
+        },
+        "res/CardGame/CommonResource/ChonBan/ChonBanPlist.plist": {
+            "md5": "e4ab2dbefb613700a7b4c75e00ff7ee6"
+        },
+        "src/Game/CoUp/GameGui/CoUpScene_en.jsc": {
+            "md5": "3d620c0bbcd912865e3887b0353bd492"
+        },
+        "src/Game/ThanBien/ThanBienVinPlay_en.jsc": {
+            "md5": "85cfee959fc57e72b6b13b26d02066dc"
+        },
+        "res/ResourceMenuTab/lichsugiaodich/bg_table.png": {
+            "md5": "c3b9bbc0503f1d59040cd6e10e55fc91"
+        },
+        "res/LoadingUI/rota4.png": {
+            "md5": "382fd4bae3639744a18994f3302e91f3"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_02.png": {
+            "md5": "5332ddc1cfbd6c7b24b66074e6b13a3c"
+        },
+        "src/Game/BaiCao/GameGui/EffectLayer_en.jsc": {
+            "md5": "af420203bdf940b4d0d213e1986a7300"
+        },
+        "src/Game/Minigame/MiniPoker/codeMiniPoker_bangthanhtich_en.jsc": {
+            "md5": "771d6baec0d1d351781c6c39904a5c6a"
+        },
+        "src/Game/Minigame/VQMM/responseVQMM_en.jsc": {
+            "md5": "ecad73fb45e50df8890125c3cb36472a"
+        },
+        "res/GameCo/CoUp/latquanden.png": {
+            "md5": "bb6489aa2e060d7459a7d1af3add97ca"
+        },
+        "script/jsb_cocosbuilder.jsc": {
+            "md5": "4edbe4b4d3e1d645846d5ff3d5ee69e2"
+        },
+        "res/CardGame/PokerTour/PokerTour/cardOn3.png": {
+            "md5": "71ab05080e360da4041f360388dc3e3f"
+        },
+        "script/debugger/main.jsc": {
+            "md5": "3566f72608899f74e71868f617674133"
+        },
+        "src/Components/Smsotp/LayoutSmsotp_en.jsc": {
+            "md5": "aaa597214ba3ec8a8efd3ee516ca6aa0"
+        },
+        "src/Game/BaiCao/BaiCaoLogic/Logic_en.jsc": {
+            "md5": "046def0ab3b6250368ea46e9410245c9"
+        },
+        "res/CardGame/CommonResource/EndGame/EndGamePlist.plist": {
+            "md5": "7b71208b785703d5316dd1de930d3f5c"
+        },
+        "res/ResourceMenuTab/Vip/tab_phai_vip.png": {
+            "md5": "cf77c90f2ddad00cc16f5b8dc33895c0"
+        },
+        "src/Game/common/common_en.jsc": {
+            "md5": "a36afe88834b914f7a9c1c36e8085ff0"
+        },
+        "res/AvengerLichSuGiaoDich.json": {
+            "md5": "55cfdc8fdb4bd57a181a37ae258052b1"
+        },
+        "res/CardGame/LaBai/labai_7.png": {
+            "md5": "6153f8bdd46fb73fd169401e9269dc06"
+        },
+        "src/Components/TableLayer/BaseLayerTable_en.jsc": {
+            "md5": "908d3b2f042d392056b10aee7850d154"
+        },
+        "src/Game/BaCay/GameGui/BaCayItemEndGame_en.jsc": {
+            "md5": "13a852c1418c8c7a38a9add0f4300081"
+        },
+        "src/Game/CoTuong/Logic/Piece_en.jsc": {
+            "md5": "610e6baf26608ffecba319597e6f9e4e"
+        },
+        "res/MenuSlots/Sound/thang_lon.mp3": {
+            "md5": "bf98148d3e288aa21caf01ec973517e2"
+        },
+        "res/Font/UTM-Bitsumishi-Pro.ttf": {
+            "md5": "169a18caf29078b016d60796993684af"
+        },
+        "src/Game/Slots/Avenger/AvengerMinigame_en.jsc": {
+            "md5": "aad14c706aa4c9f169015060334dd951"
+        },
+        "res/ResourceMenuTab/Profile/bg_hoso_table.png": {
+            "md5": "4c2cb99cac944f671ce652efc90449d8"
+        },
+        "src/Game/Minigame/MiniPoker/responseMiniPoker_en.jsc": {
+            "md5": "06fc0588661e42a2f9cd43810e62e822"
+        },
+        "src/Game/XiZach/Logic/GroupCard_en.jsc": {
+            "md5": "40e542635504f613f8de0bf26f1ab0c2"
+        },
+        "res/Lobby/IconGame/nudiepvien.png": {
+            "md5": "f3b048b6427cfc1cc2557934d8aa9284"
+        },
+        "res/MenuSlots/game_bai.png": {
+            "md5": "43524c0b99264577037c258beff9a2aa"
+        },
+        "res/CardGame/CommonResource/ChonBan/imageCenterVinDisabled.png": {
+            "md5": "f24200cd658055890850bce593c8d0d8"
+        },
+        "res/GameCo/Caro/table.png": {
+            "md5": "24678dbb020a41cfdaaa6b4cc466e57d"
+        },
+        "src/Game/BaiCao/GameGui/PlayerDisplay_en.jsc": {
+            "md5": "2eaec82bc56fa939117b7b38e3d5ff4c"
+        },
+        "script/jsb_deprecated.jsc": {
+            "md5": "c91a9cdd71201ca2c0f6779cf152b2cd"
+        },
+        "src/Game/TienLen/Network/OutPacket_en.jsc": {
+            "md5": "60227004aa2e2c95ccffada3e475ba38"
+        },
+        "res/Font/XengFont02_silver/XengFont02_silver_export.png": {
+            "md5": "4cfbeb8e99ed1adba4b04cff348165b0"
+        },
+        "src/Game/MenuInfo/VongQuayVip/VongQuayVipLayer_en.jsc": {
+            "md5": "60610dd9950b90fd5c8b389ef4de42b6"
+        },
+        "res/CardGame/Lieng/LiengPlist.png": {
+            "md5": "810733171d6f9ae79b5e3beb9f69718a"
+        },
+        "res/GameCo/CoUp/latquando.png": {
+            "md5": "1004ca9da8bed7dfe646e8e967021d48"
+        },
+        "src/Game/MenuInfo/MenuTab/BigWinLayer_en.jsc": {
+            "md5": "0542ba0fea4664459da2a419e402186b"
+        },
+        "src/Game/CoUp/Network/InPacket_en.jsc": {
+            "md5": "31eb7e7ec4730b7183534fc92684370c"
+        },
+        "res/CardGame/LaBai/labai_1.png": {
+            "md5": "40c7e849188a87f7d765040f49ebf52b"
+        },
+        "src/Game/Minigame/VQMM/codeVQMM_en.jsc": {
+            "md5": "c3d12d7860000a5a038ea86c393f07f2"
+        },
+        "res/CardGame/LaBai/labai_16.png": {
+            "md5": "e142c1022ea6b60d3ac867b944f0822d"
+        },
+        "src/Game/MauBinh/Network/OutPacket_en.jsc": {
+            "md5": "d7eb501359bfadfee525a8416e74baf6"
+        },
+        "src/Game/CoUp/GameGui/Popup_en.jsc": {
+            "md5": "6f52021e3b9b2c70002b64cec4017a35"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauChoiThu_en.jsc": {
+            "md5": "5569a904b80f268b9b645207b1a94bbb"
+        },
+        "res/ResourceMenuTab/Guild/cup.png": {
+            "md5": "ae6ab7bd828281c3a9266f22343b0d65"
+        },
+        "src/Game/MenuInfo/Profile/ConfigProfile_en.jsc": {
+            "md5": "3de5bf49dcf685068ffcc008b26480af"
+        },
+        "res/ResourceMenuTab/Mail/lopmo.png": {
+            "md5": "4e3a1b615f5fd1db4c036b4f46c6a657"
+        },
+        "src/Game/Minigame/TaiXiu/TXThanhDu_en.jsc": {
+            "md5": "31e15804a91832b777891e8a24697f8a"
+        },
+        "src/Game/Lobby/Gui/OtpGameBaiLayer_en.jsc": {
+            "md5": "f484c253953e660f72d41ccb29c2d82a"
+        },
+        "src/Game/Minigame/BauCua/BCToiChonCa_en.jsc": {
+            "md5": "8e2e8a390f55559f761d1cb11d0ba653"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinTopUser_en.jsc": {
+            "md5": "50bfc2baf1c35d31a8bf3eee190decfd"
+        },
+        "src/Game/PokerTour/Network/OutPacket_en.jsc": {
+            "md5": "d644075c002091ab90bd9ca5c12c8542"
+        },
+        "res/LoadingUI/fonts/tahoma.ttf": {
+            "md5": "b44e9059cd9fab81dad46723d52d397e"
+        },
+        "res/Font/UTM-SeagullBold.ttf": {
+            "md5": "acc3b9dda9e5cc9a1fc1b848518f1ade"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_06.png": {
+            "md5": "0c5a53eae87ee3a131b2c2958fdef40f"
+        },
+        "res/CardGame/CommonResource/BanChoi/nenThuaCuoc.png": {
+            "md5": "aa43cd2bd7d0bfc5a627e5e53b6dee0b"
+        },
+        "res/CardGame/backjack/PlistBackJack.png": {
+            "md5": "73cf469f41de3b1438a2e09068ddb6fc"
+        },
+        "script/jsb_prepare.jsc": {
+            "md5": "3abd45366540c676a8ac003beaf13fdf"
+        },
+        "res/LoadingUI/logo.png": {
+            "md5": "921eda5ed502cc86710606b4ba26d12a"
+        },
+        "src/Game/XiZach/Logic/Player_en.jsc": {
+            "md5": "d68f7aa5face337079178de6b8ec4706"
+        },
+        "res/CardGame/ResXocDia/dealer_1.png": {
+            "md5": "9f9f0ed9f6e24921ac1255e8fd7699cf"
+        },
+        "res/ResourceMenuTab/Mail/btnRefresh.png": {
+            "md5": "a12e6fb661fe374139148397ab683c31"
+        },
+        "project.json": {
+            "md5": "dece21b51eac1cd1c992034e50e56eb6"
+        },
+        "res/Lobby/DangKy/bg_DangKy.png": {
+            "md5": "c6695052e6dc72ddde6a8e28856c0990"
+        },
+        "src/Game/GuildEvent/guildTaiXiu_en.jsc": {
+            "md5": "3c905ab2584e0757a474d0465bb3aa4f"
+        },
+        "src/Game/CoUp/GameGui/EffectLayer_en.jsc": {
+            "md5": "02b1eb866da52202d719c6b42c92e4e7"
+        },
+        "res/ResourceMenuTab/ChuyenKhoan/PlistChuyenKhoan.plist": {
+            "md5": "fab9d7f840d3e2921953f004d48d5fab"
+        },
+        "src/Game/Poker/GameGui/BtnPlay_en.jsc": {
+            "md5": "54e3601b82ab90f0e375be77478167b3"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinResponse_en.jsc": {
+            "md5": "c59ac7da914fe29e5630d7e67e9ac5b1"
+        },
+        "src/Game/CoTuong/Logic/Logic_en.jsc": {
+            "md5": "e81920a636c7aea702f8be34d35d4058"
+        },
+        "src/Game/Networks/CardGame/InPacket_en.jsc": {
+            "md5": "f94852312e05c5f924ecee71a2d4b218"
+        },
+        "res/CardGame/ResXocDia/xocdia-21.png": {
+            "md5": "eeb45604a765f8d426cc7b6c382902aa"
+        },
+        "src/Game/Minigame/MiniSlot/ResponsePokemon_en.jsc": {
+            "md5": "f3e6229b3bf1db83855d46b5ab7a28c6"
+        },
+        "res/GUI/Lobby/Popup/Fonts/UTM_Swiss_Condensed.ttf": {
+            "md5": "acdee77b7b507e642cef27a99dad68f7"
+        },
+        "res/CardGame/PokerTour/PlistPokerTour.png": {
+            "md5": "67d8b700e506e1365a28422d4a14b41f"
+        },
+        "res/NDVBangThuong.json": {
+            "md5": "e652631fab325b61e262e5753d01b8f6"
+        },
+        "src/Game/BaiCao/GameGui/NanBaiLayer_en.jsc": {
+            "md5": "7f7cb4c4546ada60d296287769586445"
+        },
+        "res/CardGame/ResXocDia/subbanker.png": {
+            "md5": "700f96cd0f4825094304c8614be02938"
+        },
+        "src/Game/XiZach/GameGui/XiZachScene_en.jsc": {
+            "md5": "1ba66ca8a54805f5cdd07a079e6b22d3"
+        },
+        "res/GameCo/CoUp/CoUpPlist.png": {
+            "md5": "074ccc87668b24b7435713525f8f3713"
+        },
+        "src/Game/Lobby/Gui/QuenMatKhau/ForgotPassword_en.jsc": {
+            "md5": "344ba2665f19dcc4c2f70d29f037a444"
+        },
+        "src/Game/CoTuong/GameGui/KhieuChien_en.jsc": {
+            "md5": "03241e7c51f086c6d29b148373dca101"
+        },
+        "res/CardGame/CommonResource/EndGame/EndGamePlist.png": {
+            "md5": "a04ea24a45d5ecceaf5f84f77f0457a2"
+        },
+        "src/Game/Poker/Network/CmdDefine_en.jsc": {
+            "md5": "4c015504cc66e72e1ee517715d440927"
+        },
+        "res/ResourceMenuTab/Vip/table_event2.png": {
+            "md5": "7d8d661f97a631ee82aa222b400982a4"
+        },
+        "src/Game/PokerTour/GameGui/BangVipTour_en.jsc": {
+            "md5": "8e08a385ef29305b23d86bc0161561fc"
+        },
+        "src/Game/CoCaro/Logic/Player_en.jsc": {
+            "md5": "40add907972783442ab7c664dd8e1403"
+        },
+        "src/Game/Minigame/TaiXiu/soicau_en.jsc": {
+            "md5": "8ff0b5c7313c56d3b0245cbf941fd057"
+        },
+        "src/Game/Slots/VuongQuocVin/Particle/ParticleVinplay_en.jsc": {
+            "md5": "92643c50d88ef1c23d900ea0dea833ef"
+        },
+        "src/Game/CoUp/Network/CoUpWebSocket_en.jsc": {
+            "md5": "b80e8ce5ac51ea941434185de9f4d5ab"
+        },
+        "res/GUI/Lobby/Popup/Fonts/UTM_Swiss_CondensedBold.ttf": {
+            "md5": "cb756e444c81c3490adfb9e6b540e2f5"
+        },
+        "res/Font/UTM-Swiss-Condensed.ttf": {
+            "md5": "acdee77b7b507e642cef27a99dad68f7"
+        },
+        "src/Game/MenuInfo/Shopping/NapVinFromBank_en.jsc": {
+            "md5": "cfe5ab8b69b4e38b27ee6ca25f9dd921"
+        },
+        "script/debugger/event-emitter.jsc": {
+            "md5": "51e3653c7510420474ac33d130f98c52"
+        },
+        "res/Lobby/IconGame/dechelama.png": {
+            "md5": "ea5cd92b43f10bceb0028749b22e9bdf"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeChiTietTopUser_en.jsc": {
+            "md5": "11fd22372cf20bdac940d3138f716d56"
+        },
+        "src/Game/GameMng/GameManager_en.jsc": {
+            "md5": "d8315fa5bdc3204babf525c1c542ba0d"
+        },
+        "src/Game/CoTuong/GameGui/PlayerDisplay_en.jsc": {
+            "md5": "944e65967d33768b5ff4e016a026b78e"
+        },
+        "src/Game/PokerTour/Network/CmdDefine_en.jsc": {
+            "md5": "37e7874c5769b88653448f8776e3a7ad"
+        },
+        "src/Game/XiZach/GameGui/CardSprite_en.jsc": {
+            "md5": "659d777dc099bafbc59b3adce6098c5a"
+        },
+        "src/Game/MenuInfo/responseMenu_en.jsc": {
+            "md5": "96938d70c9eadb5f3c403b4c91082101"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauAudio_en.jsc": {
+            "md5": "f3bea87e6dbd623516e90ea77529985c"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVienAudio_en.jsc": {
+            "md5": "c7bc07ea6cee7fa2096be34b50f6244d"
+        },
+        "res/CardGame/ResXocDia/xocdia-24.png": {
+            "md5": "3d189c4f0d4d46297ad34c1e82172f56"
+        },
+        "src/Game/XocDia/Network/XocDiaListener_en.jsc": {
+            "md5": "827a89fca52c5b011ead88f09c069f26"
+        },
+        "res/Font/font_time-export.fnt": {
+            "md5": "f17c483781c79238aecefbf1c48abd4c"
+        },
+        "src/Game/BaiCao/Network/InPacket_en.jsc": {
+            "md5": "521702b65155c92b3c1c5d632aeb3687"
+        },
+        "src/Game/MauBinh/Network/InPacket_en.jsc": {
+            "md5": "2164a7da3681b1eb93078e0d64f5bfc9"
+        },
+        "src/Game/Minigame/TaiXiu/chat_en.jsc": {
+            "md5": "0de73c4b6aa2130c46c3e6b3f3325053"
+        },
+        "res/ThanBien/project.manifest": {
+            "md5": "030648ab5be9467505fb7b5c1ec3ea1b"
+        },
+        "res/CardGame/LaBai/labai_3.png": {
+            "md5": "9f5f2009d6d2f33f4e80c897dd7f09e5"
+        },
+        "src/Game/Poker/Logic/GameLogic_en.jsc": {
+            "md5": "a7b2f9176647ba45984caeb6af1c7341"
+        },
+        "src/Game/XocDia/Logic/XocDiaLogic_en.jsc": {
+            "md5": "773748839324e90a616608688323e76c"
+        },
+        "res/CardGame/LaBai/labai_14.png": {
+            "md5": "12ed37954139c5eeb12d6efcd8ad074f"
+        },
+        "src/Game/CoUp/Logic/Piece_en.jsc": {
+            "md5": "9da4fd2812cc19f0185b365eecfe9a67"
+        },
+        "res/Minigame/ImageChung/choixu.png": {
+            "md5": "9a59a71e5c096785589cac0e35d6868e"
+        },
+        "res/cacert.pem": {
+            "md5": "29eb4701e245df55dc511e67bef79a68"
+        },
+        "res/GameCo/CoTuong/CoTuongPlist.png": {
+            "md5": "30a8ffa3239a1c97da948db040f5083d"
+        },
+        "res/ResourceMenuTab/Shopping/PlistShopping.png": {
+            "md5": "52616f3cc111c525bd651dc180051687"
+        },
+        "script/studio/jsb_studio_property_apis.jsc": {
+            "md5": "2df71a05152aa52982e94680c79a7e76"
+        },
+        "script/debugger/actors/object.jsc": {
+            "md5": "a67934e1a52c255917a314f255c48d7f"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVienListener_en.jsc": {
+            "md5": "db8d9e897368d9a738c6acbcb4620058"
+        },
+        "res/CardGame/CommonResource/MoiChoi/MoiChoiPlist.plist": {
+            "md5": "5122a08cfcb7efea585e5991d32c7185"
+        },
+        "src/Game/CoUp/Network/CoUpListener_en.jsc": {
+            "md5": "2f909d8c345ae36a6d90f6254123d4c6"
+        },
+        "src/Game/Minigame/BauCua/BCTopUser_en.jsc": {
+            "md5": "6c068249ee44d583a351818092598e79"
+        },
+        "res/CardGame/LaBai/labai_12.png": {
+            "md5": "43e329b805c3eff76e64c2042d8159e8"
+        },
+        "res/CardGame/ResXocDia/Sound/outRoom.mp3": {
+            "md5": "56bfa2a014219e2b759607e5f172619f"
+        },
+        "res/MenuSlots/game_slot.png": {
+            "md5": "cf33a11b17c2f1c987d16659bb298d5e"
+        },
+        "src/Game/Lieng/Network/OutPacket_en.jsc": {
+            "md5": "dffea1ba37d51cf963a1cb3751ef56f8"
+        },
+        "res/Minigame/ImageChung/arrow.png": {
+            "md5": "436dfc96367400f84ce7b740983c00f1"
+        },
+        "res/ResourceMenuTab/Guild/info.png": {
+            "md5": "cf1ffdb4a437dadfba7648aedfc5ff2e"
+        },
+        "src/Engine/GUI/BaseLobby_en.jsc": {
+            "md5": "c84b176e864d20646417b319a5f23f91"
+        },
+        "src/Game/BaCay/GameGui/NanBaiLayer_en.jsc": {
+            "md5": "999a2aea2c8e10c4b5c7f18f3adbbb4a"
+        },
+        "src/Game/gameInstance_en.jsc": {
+            "md5": "85c6818d225cc87192b9493da1405993"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRome_en.jsc": {
+            "md5": "b2ddf47194d5125e8c7d9e93ca359a00"
+        },
+        "res/ResourceMenuTab/Profile/bg_profile.png": {
+            "md5": "19fd2391cd8b3e9b004bf6d196e63c3a"
+        },
+        "src/Game/Poker/PokerTour/PokerTourLobby_en.jsc": {
+            "md5": "b29a0a8fec5f5a9dfac9b5d3dda6563f"
+        },
+        "res/AvengerBangThuong.json": {
+            "md5": "557e54ca3f1dc115522fc51df7b13e2f"
+        },
+        "res/GameCo/CoTuong/table_inside.png": {
+            "md5": "ddb73166a310e522834bb0811cdac3bc"
+        },
+        "res/NuDiepVien/project.manifest": {
+            "md5": "033dd076c04c8d19bfcb3853ee755467"
+        },
+        "res/CardGame/CommonResource/ChonBan/bg_table_room_2.png": {
+            "md5": "8800011b8f503525563a9961ca20a1f9"
+        },
+        "res/Font/UTM-Bebas.ttf": {
+            "md5": "6f094b59f91b55e7766336bafb802177"
+        },
+        "src/Game/Slots/Avenger/Avenger_en.jsc": {
+            "md5": "925fffcb9a32c40ce61121f1541386d6"
+        },
+        "src/Game/BaiCao/GameGui/BaiCaoEndGame_en.jsc": {
+            "md5": "b6134e9dcec19b4b22e77ffb249384dd"
+        },
+        "src/Game/PokerTour/GameGui/WinTourScene_en.jsc": {
+            "md5": "edc167666c252c21d8ed364876ff48c9"
+        },
+        "res/SlotKhoBau/project.manifest": {
+            "md5": "3b9851865af16f77e2c66a2f342a2a91"
+        },
+        "res/Minigame/ImageChung/number.png": {
+            "md5": "a71804e91f38b8189c5a06f8bf50ce33"
+        },
+        "src/Game/Networks/CardGame/CardGameWebSocket_en.jsc": {
+            "md5": "efa3bff1873b057f848e35467a6226e6"
+        },
+        "src/Engine/GUI/BaseScene_en.jsc": {
+            "md5": "ee1ac05fb0d11eb99afa2471c1debd8b"
+        },
+        "src/Game/XocDia/Constants_en.jsc": {
+            "md5": "29a733ce23b50448d9f328bad475b890"
+        },
+        "res/ResourceMenuTab/Mail/bgtab_mail_s.png": {
+            "md5": "8fa5b200da4949acb52a55fe32b77020"
+        },
+        "res/ResourceMenuTab/Vip/lv_vip_muc.png": {
+            "md5": "8934b216af695dd6bbe8c4535312e39c"
+        },
+        "res/Lobby/Default/Button_Press.png": {
+            "md5": "ea5e72abd451a76f62a2906abb7ef4bf"
+        },
+        "src/Game/Slots/Avenger/AvengerBangThuong_en.jsc": {
+            "md5": "79ffa496af2f526e39dd415a440c2ece"
+        },
+        "src/Engine/Network/PacketHeaderAnalyze_en.jsc": {
+            "md5": "6667f5a073607aae94401b5dec2b4728"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVienTopUser_en.jsc": {
+            "md5": "273e46957a1ebba878ec1326611bc6da"
+        },
+        "res/LoadingUI/loadingCircle.png": {
+            "md5": "1eceb09084bbb5bec1e8b993ab8334e6"
+        },
+        "src/Game/PokerTour/Network/InPacket_en.jsc": {
+            "md5": "4e4a7d5f16178a712c82f35b875553d0"
+        },
+        "script/studio/jsb_cocos2d_studio.jsc": {
+            "md5": "b0006b601cfb3131c319022031f88fa7"
+        },
+        "res/Minigame/ImageChung/bg_title.png": {
+            "md5": "ebd18f2136c5697d3cdc367cd47c7201"
+        },
+        "src/Game/Lieng/Network/LiengListener_en.jsc": {
+            "md5": "32024a213ba04b44eb468e156b083762"
+        },
+        "res/Lobby/IconGame/xocdia.png": {
+            "md5": "ccfc473cdfad5a44c6a68651b05f8cea"
+        },
+        "src/Game/MenuInfo/Shopping/NapVinFromIAP_en.jsc": {
+            "md5": "4bfc27d5cda900961ee1f1f8f8ac9052"
+        },
+        "src/Game/TienLen/LogicGame/Player_en.jsc": {
+            "md5": "9dc23d3e02969678d9877b393d7f4121"
+        },
+        "res/CardGame/LaBai/labai_21.png": {
+            "md5": "89dacd69545649363c8e557d32b7075b"
+        },
+        "res/CardGame/CommonResource/ChonBan/bg_createRoom.png": {
+            "md5": "65c8c73b0e4890730d9daaac2d856af4"
+        },
+        "res/ResLoading/btnline.png": {
+            "md5": "8e04c10f473be45a353b806cbcb725f8"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_07.png": {
+            "md5": "d1ea0756b1ec6f62b959ac7250848381"
+        },
+        "src/Game/common/ColorDefine_en.jsc": {
+            "md5": "5af0c480439c9b78de944f5197e37780"
+        },
+        "res/MenuSlots/icon/kho_bau.png": {
+            "md5": "f1c29bbb37d91e249149411f7ff57f42"
+        },
+        "script/debugger/actors/common.jsc": {
+            "md5": "2d6a26f05172f85e7f8b450cca645102"
+        },
+        "src/Game/MauBinh/Logic/MauBinhRule_en.jsc": {
+            "md5": "454fa74923947b7f7012605f9c650d55"
+        },
+        "src/Game/TienLen/Network/TienLenWebSocket_en.jsc": {
+            "md5": "09047c961b85f87bbb4c3a05221d82f2"
+        },
+        "src/Game/CoTuong/Logic/Pieces/Elephant_en.jsc": {
+            "md5": "de6340229514abce70783e5bfcba50bf"
+        },
+        "src/Game/Networks/MainWebsocket/primarySocket_en.jsc": {
+            "md5": "66f7fb3626cca32a451e1a44c4cffda2"
+        },
+        "res/Font/XengFont02_silver/XengFont02_silver_export2x.png": {
+            "md5": "615a546a7d3c5d7b1f2023fce29d7903"
+        },
+        "res/Font/UTM-Swiss-CondensedBold.ttf": {
+            "md5": "cb756e444c81c3490adfb9e6b540e2f5"
+        },
+        "res/MenuSlots/PlistMenuSlots.png": {
+            "md5": "38c6a351e049dcaeede80ac581e5d785"
+        },
+        "res/CardGame/PokerTour/bannerTour_1.jpg": {
+            "md5": "9e40a10f132f16c8651da608f34858ea"
+        },
+        "script/debugger/actors/webconsole.jsc": {
+            "md5": "aa203e8a968176a5b311b23df9196144"
+        },
+        "res/CardGame/CommonResource/BanChoi/bg_layer_baosam.png": {
+            "md5": "c0947a6ec09af1ed81bc11c04f26c277"
+        },
+        "res/GameCo/CoTuong/checkKillEffect/a.plist": {
+            "md5": "eabf93bfb7300fd1ff7c0b7376417819"
+        },
+        "src/Game/Minigame/MiniSlot/codeSlot3Hang_lichsu_en.jsc": {
+            "md5": "28928a1216c06106a8e5e315f03cb4ef"
+        },
+        "res/Lobby/IconGame/icon_thanbien.png": {
+            "md5": "b7fa091e0b11fcea4a9ba2702f4b69a7"
+        },
+        "src/Game/GuiCommon/CheatCardLayer_en.jsc": {
+            "md5": "cb1cbaec1fa09bf862b03292dc1fdec8"
+        },
+        "src/Game/GuiCommon/ThongTinHuVangIcon_en.jsc": {
+            "md5": "019fe3b6b6545277397547ace9a3df8b"
+        },
+        "res/CardGame/PokerTour/bgwinpoker.jpg": {
+            "md5": "b9cc53b8afb4af1d5a1fafdbf6a0a7ca"
+        },
+        "res/CardGame/ResXocDia/Sound/addPhing1.mp3": {
+            "md5": "cadea29adb651e2cda89b9e36642f0d4"
+        },
+        "res/CardGame/LaBai/labai_48.png": {
+            "md5": "7eb8b55d667fc104f00912da78b71373"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVien_en.jsc": {
+            "md5": "c2a03560fa7df7a10c2f93df2044c5f0"
+        },
+        "res/CardGame/backjack/PlistBackJack.plist": {
+            "md5": "0f907ca4616a4289fd91608d8b527606"
+        },
+        "script/jsb_property_impls.jsc": {
+            "md5": "40ae49543b442149ea16dfb3e706a8a6"
+        },
+        "src/Game/MenuInfo/Profile/VipLayer_en.jsc": {
+            "md5": "dd576224f26666bddd0435adce45a976"
+        },
+        "res/CardGame/ResXocDia/Plist.plist": {
+            "md5": "74a706eea8f866609ee8a969f5ce2137"
+        },
+        "script/debugger/actors/script.jsc": {
+            "md5": "38d9daf7a0a55de5df281dd214884f8f"
+        },
+        "res/CardGame/LaBai/labai_45.png": {
+            "md5": "3f351e2f5a7d92ffde4efbcb58025c4c"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Start_VQV.plist": {
+            "md5": "931368e54b290301a549f3eda281515e"
+        },
+        "res/MenuSlots/coming_soon.png": {
+            "md5": "fb16995cd1f9b55371fe259dcfeaf137"
+        },
+        "res/CardGame/PokerTour/bg.jpg": {
+            "md5": "2cb95679346fcda949a60e20ad84d35c"
+        },
+        "src/Game/GuiCommon/ButtonMoiChoi_en.jsc": {
+            "md5": "f2b45980a291ab56f3144556a558d77b"
+        },
+        "res/Minigame/TaiXiu/project.manifest": {
+            "md5": "a2b5c6c9815295ab1173b4804647d05b"
+        },
+        "src/Game/CoCaro/GameGui/CoCaroScene_en.jsc": {
+            "md5": "7ecf50747728034f8cef2f81c43220bb"
+        },
+        "src/Game/PokerTour/GameGui/BangThongTinGiaiDau_en.jsc": {
+            "md5": "68206608035703916857d9185a3c37a3"
+        },
+        "res/ResourceMenuTab/Vip/lv_vip.png": {
+            "md5": "41d960561bbb1a4948f9b122d031e319"
+        },
+        "src/Game/CoUp/Network/CmdCoUp_en.jsc": {
+            "md5": "3839fe90ab014e7fea9c0a5b6c6e613d"
+        },
+        "src/Engine/Unicorn/index_en.jsc": {
+            "md5": "9e191c0a01d28819a9fea939f43428f1"
+        },
+        "script/physicsSprite/jsb_physicsSprite.jsc": {
+            "md5": "11c9d349584641db797494168d3b5fb0"
+        },
+        "src/Game/MenuInfo/Profile/TabVongQuayVip_en.jsc": {
+            "md5": "bf99ed9abbe28185e9acd89300dcf8da"
+        },
+        "res/Minigame/ImageChung/effect_circle.png": {
+            "md5": "efc2bafa0dc92635c5b200c1c1811360"
+        },
+        "src/Game/BaiCao/BaiCaoLogic/Card_en.jsc": {
+            "md5": "ba5a1f83c8e4803d789aa4f0ba553b8e"
+        },
+        "res/Lobby/IconGame/pokerTour.png": {
+            "md5": "41200d9faaf2a12f66956e9d52d643bb"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/PlistVongQuayVip.plist": {
+            "md5": "06f774f8fa037d9d270a942b6593716b"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVienChoiThu_en.jsc": {
+            "md5": "e488e0bc40b4d455c5bd51b794fd1466"
+        },
+        "src/Game/MenuInfo/Profile/ChangePassword_en.jsc": {
+            "md5": "9d60175b95fcbb47cf07f6817de40fae"
+        },
+        "src/Game/Sam/Network/SamListener_en.jsc": {
+            "md5": "e7c6a4a2fdd1d5584045c05f22da4dc6"
+        },
+        "src/Game/Poker/GameGui/CardSprite_en.jsc": {
+            "md5": "7154ccf7e9addca061c1d1fdc5c9beed"
+        },
+        "src/Game/MenuInfo/Shopping/NapVinLayer_en.jsc": {
+            "md5": "89e3a8411bfa6f40d4ffc9e55b1e6a8d"
+        },
+        "res/CardGame/LaBai/labai_5.png": {
+            "md5": "f4f47eda76ff14d28b2e9ecdb39f1772"
+        },
+        "src/Game/Lieng/Logic/Card_en.jsc": {
+            "md5": "7478ef7680f6971ba79f8a8c65395421"
+        },
+        "src/Game/Minigame/CaoThap/codeCaoThap_lichsu_en.jsc": {
+            "md5": "c24fa269155cd5df732c72687bd64265"
+        },
+        "res/Font/XengFont01/XengFont01_export.fnt": {
+            "md5": "d6557c4d5eaebd563b515c7b4b15f11c"
+        },
+        "res/CardGame/LaBai/labai_32.png": {
+            "md5": "ce86ef30b14e6b38fd81b8dc4d211ba4"
+        },
+        "res/ResourceMenuTab/Shopping/TheDT/PlistTheDT.png": {
+            "md5": "caf077e630ac095694973860eb5da115"
+        },
+        "res/Minigame/ResVQMM/project.manifest": {
+            "md5": "33a3659758bf6295cad2cd538219d00d"
+        },
+        "src/Game/GuiCommon/TopServerLayer_en.jsc": {
+            "md5": "a1e04ffc0d3b5d3cc5b569773830d7d5"
+        },
+        "src/Game/Slots/Avenger/AvengerAudio_en.jsc": {
+            "md5": "3bc48a68819b75500299483873fd768b"
+        },
+        "src/Game/Lobby/Gui/MenuLayer_en.jsc": {
+            "md5": "338be12339230738fe2d828ecfe4be90"
+        },
+        "src/Game/MauBinh/GUI/NumberSprite_en.jsc": {
+            "md5": "76f612d691a974cd0effe0d16cda5924"
+        },
+        "script/ccui/jsb_ccui_deprecated.jsc": {
+            "md5": "7bbf20cbb120a30d4930994d4ecaeb37"
+        },
+        "res/Lobby/girl.png": {
+            "md5": "6145301dc0d1d8adb79fbb6e37bcfb15"
+        },
+        "res/common/chat/chat_bg.png": {
+            "md5": "a0bdaa10d29ea5e56c9c14d324045e9d"
+        },
+        "src/Game/Lieng/GameGui/BtnPlay_en.jsc": {
+            "md5": "934ce8b8cef3dd48d6119da18f42fcff"
+        },
+        "res/AvengerTheLeX2.json": {
+            "md5": "7adc133a2a0759b07e03335a3a6a2efc"
+        },
+        "src/Game/MenuInfo/code_pn_otp_en.jsc": {
+            "md5": "5cb5db51e1c8f3ac0bccb8497114bd60"
+        },
+        "src/Game/Lobby/Gui/LoginLayer_en.jsc": {
+            "md5": "501efb6d677de5af1508409670ed7098"
+        },
+        "script/ccui/jsb_ccui_property_impls.jsc": {
+            "md5": "c82f022d0813ec1688716d63d1f6a4de"
+        },
+        "res/CardGame/LaBai/labai_23.png": {
+            "md5": "da2ed1873ac17df14e2a54be350584f5"
+        },
+        "res/loading.jsc": {
+            "md5": "856417f31573edf75464374128f9ff41"
+        },
+        "res/Lobby/IconGame/coup.png": {
+            "md5": "91d70b10a6e228d5b696545915631767"
+        },
+        "src/Game/MenuInfo/Sercurity/SercurityLayer_en.jsc": {
+            "md5": "f09fb7ac4a9c1d9da6c341b6262c9aa0"
+        },
+        "res/LoadingUI/bg_load.png": {
+            "md5": "94dd3313010a9e365c6db7ede13604f4"
+        },
+        "res/Lobby/Shadow.jpg": {
+            "md5": "215687a0cd502d1995e92798ab0ad3f5"
+        },
+        "res/Minigame/ImageChung/number_back_s.png": {
+            "md5": "12ff3cac690d589fdb6a6e547a2c7b00"
+        },
+        "res/ResourceMenuTab/BaoMat/PlistBaoMat.plist": {
+            "md5": "b5f57debb8649cb1728b76dafb2e1e91"
+        },
+        "script/extension/jsb_cocos2d_extension.jsc": {
+            "md5": "9c74fc23bd5b5fc289c91b245d8e9fe0"
+        },
+        "res/CardGame/CommonResource/ChonBan/table_xu.png": {
+            "md5": "b9023ecb467e8e915447f5d8844ae0f6"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Background_Vong_b.png": {
+            "md5": "d193fb05bfe08eaa0338358616db83ad"
+        },
+        "res/Lobby/IconGame/maubinh.png": {
+            "md5": "8bcb05af7b7d572702e22a153f01e7c7"
+        },
+        "src/Game/Networks/MainWebsocket/mainNetworkListener_en.jsc": {
+            "md5": "fe3972e9b41dcb62d98789bd865e1f50"
+        },
+        "res/Font/XengFont03/XengFont3_export.png": {
+            "md5": "fa06e99dc20725f21b100dbf8779b97c"
+        },
+        "src/Game/XiZach/GameGui/EffectLayer_en.jsc": {
+            "md5": "e7a27697240b911da9d6a1342e88dd4f"
+        },
+        "src/Game/GuiCommon/CreateRoom_en.jsc": {
+            "md5": "4a8c911bb5b4ebb307979724b0debe36"
+        },
+        "src/Engine/Network/InPacket_en.jsc": {
+            "md5": "b9a2dd013b43df799a6c92312884bdb7"
+        },
+        "res/CardGame/CommonResource/ChonBan/nenTimkiem.png": {
+            "md5": "da9607834df9c92228e90fc04967bc50"
+        },
+        "src/Game/XiZach/Network/chipHoTro_en.jsc": {
+            "md5": "05941ddc8a17845c981482df9127bace"
+        },
+        "src/Game/Lieng/Logic/Player_en.jsc": {
+            "md5": "c3a147407869cf861ebac308eb843350"
+        },
+        "src/Game/BaiCao/BaiCaoLogic/Player_en.jsc": {
+            "md5": "fbb3564e59f7b87385aed12f339bf010"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVienBangThuong_en.jsc": {
+            "md5": "75c7ff6989c61fc81bba3e142c2106a0"
+        },
+        "res/CardGame/CommonResource/DiemBoBai/diem3Cay/shadown_tit.png": {
+            "md5": "0a972d6cc6a5e18d384da0e1078d6ad6"
+        },
+        "script/debugger/webconsole/utils.jsc": {
+            "md5": "19b720f81e2b7d7318e822a514989cd3"
+        },
+        "src/Game/MenuInfo/Shopping/ConfigShopping_en.jsc": {
+            "md5": "ec7b4b211face469c5695a8ba94419f5"
+        },
+        "res/CardGame/LaBai/labai_30.png": {
+            "md5": "85560a950e15663d6b6820096cc4ab80"
+        },
+        "src/Game/MenuInfo/Shopping/MuaMaTheDTLayer_en.jsc": {
+            "md5": "0fe1a09df26ee2db796addf016582806"
+        },
+        "res/common/nohuvang/no_hu_slot.png": {
+            "md5": "82ff9fe687b5c7aa05a17f0aa5b08eef"
+        },
+        "script/studio/jsb_studio_boot.jsc": {
+            "md5": "e258e3b3dc6dfad2410bb3bee9f81bdb"
+        },
+        "res/CardGame/ResXocDia/Sound/addPhing2.mp3": {
+            "md5": "e127fa6a31813c00a84bc88277177e14"
+        },
+        "res/CardGame/LaBai/labai_36.png": {
+            "md5": "76b91dec6b58470b7a0137168df3c9fe"
+        },
+        "res/Font/arial.ttf": {
+            "md5": "05ada5bd099c819f28fbe4a1de2f0a61"
+        },
+        "script/physics3d/jsb_physics3d.jsc": {
+            "md5": "56e28f4eb894cecf75d66c5479cbcabd"
+        },
+        "src/Engine/Utility/Utils_en.jsc": {
+            "md5": "17e16d12a70002344e03a2f277e1c0a6"
+        },
+        "src/Game/Sam/LogicGame/Card_en.jsc": {
+            "md5": "24747cbe50c3f79d916f650e47a4e172"
+        },
+        "src/Game/CoUp/Logic/Pieces/General_en.jsc": {
+            "md5": "1cb5dc08912b9da0c9485caacdb8815e"
+        },
+        "res/CardGame/CommonResource/MoiChoi/bg.png": {
+            "md5": "aa7d724a13b9e533824142fde572da2c"
+        },
+        "src/Game/GuiCommon/ChatLayer_en.jsc": {
+            "md5": "62e7b1afd0112c6fcbec95ade9065d65"
+        },
+        "src/Game/GuildEvent/guildMiniSlot_en.jsc": {
+            "md5": "70e00630552d658797bc0bb34add92f2"
+        },
+        "res/MenuSlots/hieu_ung/PlistHieuUng.plist": {
+            "md5": "5dbc75b2fdaa39f859c0375df5f65fe8"
+        },
+        "src/CocosEdit/CCEditBox_en.jsc": {
+            "md5": "bb795a7dcdff3bf2f451f581cede58ce"
+        },
+        "src/Game/Lieng/GameGui/CardSprite_en.jsc": {
+            "md5": "ba28ed81dc7ed2dbafccadf768570f4f"
+        },
+        "src/Game/GuiCommon/ReceiveMoiChoiLayer_en.jsc": {
+            "md5": "2dc57dcff8243aba3826bb2c0ed6a87d"
+        },
+        "src/Game/PokerTour/GameGui/BtnPlay_en.jsc": {
+            "md5": "437b44dc775f4bc8501224173662fdcf"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVin_en.jsc": {
+            "md5": "40af89b775525eb1229ddbeb81f7842c"
+        },
+        "res/CardGame/PokerTour/bg_banner_tour.png": {
+            "md5": "67394b1b8a2c505a9ed080b75a03fcd5"
+        },
+        "res/MenuSlots/icon/coming_soon.png": {
+            "md5": "4f4ccdb8a7394445b64d01456cfd82eb"
+        },
+        "res/Font/XengFont01/XengFont01_export2x.png": {
+            "md5": "6d241ab624a92bfbc9f4c759b18ed775"
+        },
+        "src/Game/MenuInfo/Shopping/DaiLyLayer_en.jsc": {
+            "md5": "1991be999b9d5ca218ea956825a05b42"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_01.png": {
+            "md5": "5332ddc1cfbd6c7b24b66074e6b13a3c"
+        },
+        "res/Sound/cotuong_background.mp3": {
+            "md5": "164a8dc630a8d099a3d957353da40c33"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauBangThuong_en.jsc": {
+            "md5": "ae1e78fe731e6b0f0da20c2c1ae13973"
+        },
+        "src/Game/Poker/Network/PokerListener_en.jsc": {
+            "md5": "42cb2380533b69d093c092fc2ef50d30"
+        },
+        "src/Engine/GUI/GuiUtil_en.jsc": {
+            "md5": "54af8074db3c29b7e0aabe2056189d29"
+        },
+        "res/Sound/draw.mp3": {
+            "md5": "d7136aa382a3a181397517778bf367c5"
+        },
+        "res/ResourceMenuTab/Shopping/bank/PlistBank.png": {
+            "md5": "860092b15c6dc34a46c8f45a3fab27b3"
+        },
+        "src/Game/PokerTour/Network/PokerTourSocketClient_en.jsc": {
+            "md5": "39615cb7ce7b0d94a548962443a69514"
+        },
+        "src/Game/CoUp/Logic/Pieces/Chariot_en.jsc": {
+            "md5": "0508fe002d59ae511363298c7ad14859"
+        },
+        "script/studio/parsers/compatible.jsc": {
+            "md5": "086c012d95c44f86f3632644309d5528"
+        },
+        "src/Game/MenuInfo/Sercurity/InformationLayer_en.jsc": {
+            "md5": "e6611b75a73ef26fbb8fc3b5f27a48a7"
+        },
+        "res/VuongQuocVin/version.manifest": {
+            "md5": "13281191f16f59c2d5534b519fb571fb"
+        },
+        "script/jsb_cocos2d_constants.jsc": {
+            "md5": "d716f31f4a07130bc1db94d06adc2885"
+        },
+        "res/CardGame/CommonResource/BanChoi/khung_vong_cung.png": {
+            "md5": "c86fd83cc965841654b9d5dcd568792d"
+        },
+        "res/common/PlistCommon.plist": {
+            "md5": "c0a363a32bdd85ce12efe92dbe9eced2"
+        },
+        "src/Game/Sam/GuiGame/EffectLayer_en.jsc": {
+            "md5": "d36e658047a64792a5bcfcbea7fadb71"
+        },
+        "res/GameCo/CoTuong/killEffect/kill.png": {
+            "md5": "f979318ed0057631d42dd70f87b90432"
+        },
+        "res/GameCo/CoTuong/CoTuongPlist.plist": {
+            "md5": "3eb506dfa316fe0e0e79582e7ea5166d"
+        },
+        "res/Sound/pickup.mp3": {
+            "md5": "70067deec8dcd5c875cec7d21728a21c"
+        },
+        "res/Lobby/banner_1.png": {
+            "md5": "8607f1fe35f6d8a7db39986e9cf5bcb3"
+        },
+        "script/jsb.jsc": {
+            "md5": "10942eead6c641c13ee1176bd3f2e8dd"
+        },
+        "res/CardGame/LaBai/labai_50.png": {
+            "md5": "f1f9d65d2b3de48021d5f05ccaa51311"
+        },
+        "res/Lobby/Default/Button_Normal.png": {
+            "md5": "5f8329d6525b01810d68e39036e5f066"
+        },
+        "res/CardGame/ResXocDia/iconChuong.png": {
+            "md5": "13cabe49f8280bed7406577af6c4a830"
+        },
+        "res/Lobby/IconGame/poker.png": {
+            "md5": "440123cd933c3a62338c6b46b3149a42"
+        },
+        "src/Game/Lieng/Logic/GameLogic_en.jsc": {
+            "md5": "b30dd5bff9c3655291fb40250a8e001c"
+        },
+        "script/debugger/core/promise.jsc": {
+            "md5": "18a9bcf93a512e3ae3b9f29922e121c1"
+        },
+        "src/Game/MenuInfo/Profile/HoSoLayer_en.jsc": {
+            "md5": "fdaa385ea74f10bb64b8449540f0ecdb"
+        },
+        "src/Game/BaCay/Network/InPacket_en.jsc": {
+            "md5": "5137541db6ff77cd56ed76e14f904bf9"
+        },
+        "res/CardGame/LaBai/labai_22.png": {
+            "md5": "7ece03f8bb7f018bdd12ac4e8ff1289f"
+        },
+        "src/Game/Minigame/MiniPoker/codeMiniPoker_en.jsc": {
+            "md5": "6715052284d80455cfa0af0358c54fef"
+        },
+        "src/Game/CoTuong/Network/CoTuongListener_en.jsc": {
+            "md5": "317227a069bcdb4501fa4766792ca132"
+        },
+        "src/Game/Poker/GameData/Constant_en.jsc": {
+            "md5": "e0d0fdb153ec597caac4e4b834b125d2"
+        },
+        "src/Game/TienLen/Network/CmdTienLen_en.jsc": {
+            "md5": "4d8e8b0e9c2f0882ba64ae58f621cdeb"
+        },
+        "res/CardGame/CommonResource/BanChoi/sam_that_bai.png": {
+            "md5": "7941d946d59a1a369c18e32a5347b533"
+        },
+        "src/Game/TienLen/LogicGame/CardGroup_en.jsc": {
+            "md5": "f5ad3e547796dcf6645fbe257d3af2aa"
+        },
+        "res/Font/XengFont02_silver/XengFont04-export.fnt": {
+            "md5": "fa97af6d29dea5c2c1de7a6955045658"
+        },
+        "src/Game/BaiCao/Constants_en.jsc": {
+            "md5": "8a04152ea5cc5362d361de04205ec6a5"
+        },
+        "res/Minigame/ImageChung/luot_quay_mien_phi.png": {
+            "md5": "0f9de644aa9f09ad6ad8c51e4ddf63d2"
+        },
+        "script/3d/jsb_cocos2d_3d_ext.jsc": {
+            "md5": "56a06bb8919c989a4f282f53f346cf41"
+        },
+        "src/Game/Slots/Avenger/AvengerLSGD_en.jsc": {
+            "md5": "b6c32a03d567cc96a8960bdabf7a0eef"
+        },
+        "src/Game/GameUtility/GameToast_en.jsc": {
+            "md5": "08e1c8a2e2b3eed189ed3a94699d28bd"
+        },
+        "script/jsb_cocos2d.jsc": {
+            "md5": "e604b4ce73843c940898bac583e2ad7f"
+        },
+        "script/jsb_loaders.jsc": {
+            "md5": "f3f3e64b11a3bccc9b40d492c3c0c1c5"
+        },
+        "src/Game/Lieng/Network/LiengSocketClient_en.jsc": {
+            "md5": "b9e23a2bdc6e2878b58ed3b4dc6c1cc2"
+        },
+        "src/Game/MenuInfo/MenuTab/UserManagerLayer_en.jsc": {
+            "md5": "16e9af268cb3a59112851fdb980df3a4"
+        },
+        "res/MenuSlots/Sound/no_hu.mp3": {
+            "md5": "646f54bd91314105efe5039e9372c94a"
+        },
+        "src/Game/Minigame/TaiXiu/tanloc_en.jsc": {
+            "md5": "6238c9ecc20aec9ddf39e4970f446ac3"
+        },
+        "res/CardGame/LaBai/labai_34.png": {
+            "md5": "c6f9b022050b9b7658b3b73e6175de40"
+        },
+        "res/CardGame/LaBai/labai_20.png": {
+            "md5": "5b106c71724834fdb02ebae48ac533df"
+        },
+        "src/Game/MenuInfo/codeAdvertise_en.jsc": {
+            "md5": "6d44b6524dec000c5106bbd04e511e5b"
+        },
+        "res/CardGame/LaBai/labai_24.png": {
+            "md5": "046aa31d12bc09d2148220e15f497098"
+        },
+        "res/CardGame/Poker/bgBanPoker.jpg": {
+            "md5": "990dc5ef0c7ea1f8b03dae3f027c1dda"
+        },
+        "res/LoadingUI/manvipclub.png": {
+            "md5": "a80ece62ccaa9321bee726cc85880aae"
+        },
+        "res/Minigame/ResSlotBa/version.manifest": {
+            "md5": "33a3659758bf6295cad2cd538219d00d"
+        },
+        "res/CardGame/LaBai/labai_13.png": {
+            "md5": "d2050363b2a932994729b4904359b060"
+        },
+        "res/Lobby/bground_tab.png": {
+            "md5": "3b29f60d6e6c9e7d272bea28716c5659"
+        },
+        "src/Game/CoCaro/Network/OutPacket_en.jsc": {
+            "md5": "a8d2db06598130df1337ccbc2dbad066"
+        },
+        "res/CardGame/LaBai/labai_43.png": {
+            "md5": "1f6a99b4a56d03f9a0e16112fa5105bf"
+        },
+        "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeLSGD_en.jsc": {
+            "md5": "feef9e2bd3a75555a87263ddd34a6ec0"
+        },
+        "src/Game/BaCay/BaCayLogic/Logic_en.jsc": {
+            "md5": "e150d4cb1c2f7fb7c50e11eda026f32d"
+        },
+        "src/Game/MenuInfo/code_event_vip_top_en.jsc": {
+            "md5": "dd2aca3460f730a59e74648d404c1c32"
+        },
+        "src/resource_en.jsc": {
+            "md5": "04d5aa80087eb74a3618900489bfd1cb"
+        },
+        "res/Font/XengFont01/XengFont01_export2x.fnt": {
+            "md5": "b088fecfe4fab763694d11d02d351efe"
+        },
+        "src/Game/MenuInfo/Event/EventVipLayer_en.jsc": {
+            "md5": "fb759aeb169d22ac876375d2adf9b581"
+        },
+        "script/studio/parsers/uiParser-1.x.jsc": {
+            "md5": "5ff74d077ced36143dfa787ae9c1ddf7"
+        },
+        "res/CardGame/ResXocDia/Plist.png": {
+            "md5": "90c1728c2e08edc652b94c22645c2ea6"
+        },
+        "res/Lobby/btn_pc.png": {
+            "md5": "bc489b895a677daa6e3595f7a452fd1f"
+        },
+        "src/Game/Lieng/GameGui/PlayerDisplay_en.jsc": {
+            "md5": "c76ed353aa3bb612f637145f150d2492"
+        },
+        "res/CardGame/PokerTour/PokerTour/cardDis3.png": {
+            "md5": "97d3f52e6af57954c11552a2d18bc13a"
+        },
+        "res/Minigame/ImageChung/PlistImageChung.png": {
+            "md5": "383139f07e88c778e59026fc2bd2fcd1"
+        },
+        "res/Font/XengFont03/XengFont3_export.fnt": {
+            "md5": "0405b84e91cac3da49eda3e4a88e6322"
+        },
+        "script/studio/jsb_studio_load.jsc": {
+            "md5": "c80a283ddfbf9ad1bd14a67a9e044162"
+        },
+        "src/Game/Networks/BaseListener_en.jsc": {
+            "md5": "1e34ee19591ef0b9232014d7903d1e94"
+        },
+        "script/debugger/DevToolsUtils.jsc": {
+            "md5": "a8197e2642cf4c1bf3a3ea62885a8e17"
+        },
+        "src/Game/PokerTour/Logic/PokerTourData_en.jsc": {
+            "md5": "f6d74e92765d44f717700629aa4e90af"
+        },
+        "src/Game/TienLen/LogicGame/Card_en.jsc": {
+            "md5": "8c96140f46a19908bb9b203aa7bcbd5b"
+        },
+        "src/Game/Networks/TaixiuSocket/OutPacket_en.jsc": {
+            "md5": "3c85692f9bbbc494821253979b9cbd34"
+        },
+        "src/Game/Minigame/TaiXiu/TXTopUser_en.jsc": {
+            "md5": "7048f525fb4b7f971c50fd6c22be1f2b"
+        },
+        "res/Minigame/ImageChung/choivin.png": {
+            "md5": "99bc4dafda9613b2cab8f42ac2d03b10"
+        },
+        "src/Game/MauBinh/Logic/MauBinhPlayerInfo_en.jsc": {
+            "md5": "d4d5716d0508a19809a816e53196c46a"
+        },
+        "src/Game/Lobby/Gui/QuenMatKhau_en.jsc": {
+            "md5": "22a2d4b014c9cebbe47437ff2292c8b5"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauResponse_en.jsc": {
+            "md5": "9d61070a2333f71711cc803ee9b7ddea"
+        },
+        "res/CardGame/LaBai/labai_52.png": {
+            "md5": "1be1785f4b776977db7789f2ef4d8f9e"
+        },
+        "res/ResourceMenuTab/Profile/PlistProfile.plist": {
+            "md5": "3f4616389ffe36e90f4d36c86dca945e"
+        },
+        "src/Game/MenuInfo/MenuTab/GameSetting/SettingLayer_en.jsc": {
+            "md5": "242759c8fea6c4b302f9e8496574ce6b"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Start_VQV.png": {
+            "md5": "7abf2a3824952e0dcf5341423514ded1"
+        },
+        "src/Game/Networks/TaixiuSocket/TaiXiuListener_en.jsc": {
+            "md5": "33df8b22a23ff37b48f67a0b5094c8ff"
+        },
+        "res/Lobby/Default/Slider_PressBar.png": {
+            "md5": "adf7de39246f474fcd29447672f8b66b"
+        },
+        "src/Game/Slots/UI/BaseLayerSlots_en.jsc": {
+            "md5": "f36dc2cbfb070d8db534e8a194e7a54f"
+        },
+        "res/ResourceMenuTab/lichsugiaodich/btn1.png": {
+            "md5": "cd3d50c5db7e04439d83b985dbb985c7"
+        },
+        "res/KBLichSuGiaoDich.json": {
+            "md5": "3deb8b3da1ea5e522b948d1dce93351a"
+        },
+        "res/LoadingUI/dot.png": {
+            "md5": "1d220bbb7b6e07ffd53dd177f6885166"
+        },
+        "src/Game/CoTuong/Constants_en.jsc": {
+            "md5": "777b09dc898d0fec3c142084d3429fc1"
+        },
+        "res/Font/XengFont01/XengFont01_export.png": {
+            "md5": "ecad0b1f173b1ed4c901ea38e0387f8c"
+        },
+        "res/Lobby/IconGame/banca.png": {
+            "md5": "1d8c9fe19bb2e7ada9a8e9df75be8a60"
+        },
+        "src/Game/MenuInfo/Profile/ProfileLayer_en.jsc": {
+            "md5": "6e13a81b400251b939703a4d80629aa0"
+        },
+        "src/Game/MenuInfo/Mail/code_mail_info_en.jsc": {
+            "md5": "7469e14be88a5dbf1ce69bd3d12f6fdf"
+        },
+        "res/ResourceMenuTab/Guild/minislot2.png": {
+            "md5": "ccc27b4a974ada7523a1dedfe587fd3d"
+        },
+        "res/NDVTheLeX2.json": {
+            "md5": "784dd6a78704a7d2f01e85634e368212"
+        },
+        "res/CardGame/CommonResource/BanChoi/bg_banchoi_gamebai.jpg": {
+            "md5": "be09db08315890e0b468a188f97f56bb"
+        },
+        "res/CardGame/CommonResource/ChonBan/table_xeng.png": {
+            "md5": "619533e19273385830f59c9ac40edd3f"
+        },
+        "src/Game/Minigame/VQMM/codeVQMM_lichsu_en.jsc": {
+            "md5": "952d3203db60587b34d70afb18084cef"
+        },
+        "src/Game/XiZach/GameData/Constant_en.jsc": {
+            "md5": "1da784615fbfd1d032ae92204b51c3bb"
+        },
+        "src/Game/MauBinh/Logic/MauBinhCardDisplay_en.jsc": {
+            "md5": "cf3cb1a535f34cd554fd901c5fc14935"
+        },
+        "main.jsc": {
+            "md5": "ca73a600c3565204263a195de88b5b69"
+        },
+        "src/Game/BanCa/BanCaVinPlay_en.jsc": {
+            "md5": "a3a48f1b5508bfffc938f8e9c52f2851"
+        },
+        "src/Game/MauBinh/Logic/MauBinhUtility/DebugUtil_en.jsc": {
+            "md5": "c7fa48f4d2aefb61a620b8c5a8d6a8c0"
+        },
+        "res/Lobby/IconGame/xizach.png": {
+            "md5": "d0abed9675b649f5f051831c668e2c68"
+        },
+        "res/ResourceMenuTab/ChuyenKhoan/bg_daily.png": {
+            "md5": "38892ce24a2d89df80b9aba0c5ec74a2"
+        },
+        "res/Minigame/ImageChung/PlistImageChung.plist": {
+            "md5": "c4c0ff4ccc5ed41155d04ea1b8e160b3"
+        },
+        "res/Font/arialbd.ttf": {
+            "md5": "e66c59a1533739573cf63a21952771f5"
+        },
+        "res/CardGame/LaBai/labai_41.png": {
+            "md5": "f40909077b2595f97bce5509fc9c938a"
+        },
+        "res/MenuSlots/PlistMenuSlots.plist": {
+            "md5": "dfc73eb22bcab838252d28c0b1b45c88"
+        },
+        "src/Game/CoTuong/Logic/Pieces/Cannon_en.jsc": {
+            "md5": "a4370f9f9160fdebc22b891612a9a97a"
+        },
+        "src/Components/TableLayer/LayoutListView_en.jsc": {
+            "md5": "bce0d7958bdf556573350dc0b36279ca"
+        },
+        "src/Game/BaCay/GameGui/CardSprite_en.jsc": {
+            "md5": "5398328e72239240760d8643a2b5f56b"
+        },
+        "src/Game/CoTuong/GameGui/NodeStart_en.jsc": {
+            "md5": "a80b7c2803a868395d9ad6e08d768d05"
+        },
+        "res/Font/XengFont02_silver/XengFont04-export.png": {
+            "md5": "cd6266b3c32df60de71608b9670b9737"
+        },
+        "res/CardGame/CommonResource/BanChoi/PlistBanChoi.plist": {
+            "md5": "7d6f7d60daa641b444c04f7da8fbff14"
+        },
+        "res/Fonts/tahomabd.ttf": {
+            "md5": "41f6e2e95c82d92975d7dfe0127e2071"
+        },
+        "src/Game/Slots/Avenger/AvengerListener_en.jsc": {
+            "md5": "a15e1566b9604b8a0f8089f6e40660d2"
+        },
+        "res/Minigame/ImageChung/number_backall.png": {
+            "md5": "2f863d04b9bbfc0552e5873b95d879f5"
+        },
+        "res/CardGame/LaBai/labai_17.png": {
+            "md5": "490bdbfe97c4019067ea3cd91d2c8656"
+        },
+        "src/Game/Minigame/UI/UICalendar_en.jsc": {
+            "md5": "f10ccd1ec9c364a189d1b715ef5ce3fb"
+        },
+        "res/CardGame/CommonResource/MoiChoi/MoiChoiPlist.png": {
+            "md5": "e6fc14add1885bcdf1b8ca60a2d394d0"
+        },
+        "res/Lobby/IconGame/tlmn.png": {
+            "md5": "f8a1961115710ab46d503d079a07f424"
+        },
+        "src/Game/BaCay/Network/OutPacket_en.jsc": {
+            "md5": "5206969c2e23aa3fcab62cb884fb0715"
+        },
+        "res/CardGame/MauBinh/maubinh_type_0.png": {
+            "md5": "71ee5ca99686ff6df098edd16322842d"
+        },
+        "src/Game/BaCay/Network/CmdBaCay_en.jsc": {
+            "md5": "adde11c17209cbdaf3a3906f03324e07"
+        },
+        "res/Lobby/btn_send.png": {
+            "md5": "3b80158d4113797703e73f060ef37962"
+        },
+        "res/CardGame/PokerTour/tab_nho.png": {
+            "md5": "1094201a1a6c101c9cfa6b3554ed09f3"
+        },
+        "res/Font/XengFont01/XengFont2_gold-export.fnt": {
+            "md5": "78a69fe40e8b354eed71ff48b88eddf7"
+        },
+        "src/Game/MauBinh/Logic/MauBinhGroupCard_en.jsc": {
+            "md5": "1641ff2fd6fa9afb20aabed9caa623a6"
+        },
+        "res/KBHuongDan.json": {
+            "md5": "40c0a08049149477926002af7d157f27"
+        },
+        "res/CardGame/LaBai/labai_4.png": {
+            "md5": "4c9b658e2653e1f324bc93c670af4c6e"
+        },
+        "script/extension/jsb_ext_property_apis.jsc": {
+            "md5": "215caffefd29f58c9593bcd8d1ce0dab"
+        },
+        "res/common/nen_chat.png": {
+            "md5": "46b35cfbb471ff473a96f145500be14c"
+        },
+        "res/CardGame/LaBai/labai_33.png": {
+            "md5": "aab9c4d3913a470334887412f8cdc450"
+        },
+        "src/Game/CoTuong/GameGui/CoTuongScene_en.jsc": {
+            "md5": "28d76531cb3e9b6736a3d49a5ccf6fc5"
+        },
+        "src/Game/XocDia/Network/CmdXocDia_en.jsc": {
+            "md5": "8ff12dc795bf80251f98ae40c2813993"
+        },
+        "res/CardGame/ResXocDia/Sound/inRoom.mp3": {
+            "md5": "eca2f51aafe752e6698da76a18e4a545"
+        },
+        "src/CocosEdit/CCBoot_en.jsc": {
+            "md5": "ad38f89240944625363199b0765548dc"
+        },
+        "src/Game/Sam/GuiGame/TestScene_en.jsc": {
+            "md5": "6158cd233c5ce11e005a72465883c2bc"
+        },
+        "src/Game/XiZach/Logic/GameLogic_en.jsc": {
+            "md5": "5a7de1f1d7e68536ea8155bf0566f48b"
+        },
+        "res/Popup/button.png": {
+            "md5": "e12f701ad755a6bdf650882b4bdb938e"
+        },
+        "res/CardGame/LaBai/labai_19.png": {
+            "md5": "747891f0f68cd7e924351407725aadec"
+        },
+        "src/Game/GuildEvent/guildMiniPoker_en.jsc": {
+            "md5": "13289c910ddf7055e03e0aede06b73d9"
+        },
+        "src/Game/TienLen/Network/InPacket_en.jsc": {
+            "md5": "f948fe5071867b4ef5196748af1d948e"
+        },
+        "res/ResourceMenuTab/Shopping/bank/back.png": {
+            "md5": "cb786582c2a7cadb19b178576241d19e"
+        },
+        "src/Engine/Utility/LocalizedString_en.jsc": {
+            "md5": "b69f4d88f9eda1ebd284ea30a80515fc"
+        },
+        "src/Game/XiZach/Network/XiZachSocketClient_en.jsc": {
+            "md5": "2a7c3c84d5535e8d865d3ea0ea3d71d5"
+        },
+        "src/Game/Networks/CardGame/OutPacket_en.jsc": {
+            "md5": "ee53be77e46a5d02a5e705ee4c0ca09b"
+        },
+        "script/3d/jsb_cocos2d_3d.jsc": {
+            "md5": "85febe0ffb800379bf5e734ff4c3b1b1"
+        },
+        "src/Game/CoUp/Network/OutPacket_en.jsc": {
+            "md5": "2792afc0fab060bd1c6b07b9a8e6e229"
+        },
+        "res/CardGame/LaBai/labai_11.png": {
+            "md5": "c09926b9a27292821c814be8856cc18e"
+        },
+        "src/Game/PokerTour/GameGui/PokerTourScene_en.jsc": {
+            "md5": "83080521cf82e7b8c7a3f9f8ce811992"
+        },
+        "res/CardGame/PokerTour/PokerTour/cardDis1.png": {
+            "md5": "d8a63968adea2cb2a192a53525698fc3"
+        },
+        "script/studio/parsers/action-1.x.jsc": {
+            "md5": "4605f7e09d8ce991618145e2f2023cc1"
+        },
+        "res/CardGame/ResXocDia/animation/Dealer2_animation/dealer2Plist.plist": {
+            "md5": "ecd6252fb4283ac2f5515c0d5ff1933a"
+        },
+        "src/Game/Sam/LogicGame/CardGroup_en.jsc": {
+            "md5": "2f685a8862625c7f2dc3f6c38cd3e593"
+        },
+        "res/Sound/mark.mp3": {
+            "md5": "d7e55698d18aab279b123324e7337c21"
+        },
+        "res/CardGame/ResXocDia/Sound/Mo_bat.mp3": {
+            "md5": "73b7cafc1a5f95a5b1c8d3c546b9db9d"
+        },
+        "res/GameCo/Caro/CaroPlist.png": {
+            "md5": "b7abf84083206ca5d105061fd353c1f9"
+        },
+        "res/Localized_vi.txt": {
+            "md5": "96958ddc3004a0d5c0e3709ff2f9bb43"
+        },
+        "res/Lobby/IconGame/avenger.png": {
+            "md5": "ae69f620a426c07bb28ec825cb00de7b"
+        },
+        "src/Game/PokerTour/GameGui/PokerTourCard_en.jsc": {
+            "md5": "f13238c544c6e3954caeb912f304048f"
+        },
+        "res/CardGame/LaBai/labai_2.png": {
+            "md5": "48e5680c17f4cd53867908e503b92f19"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinChiTietTopUser_en.jsc": {
+            "md5": "c28db74d647c9101e1e277fa3d1679b1"
+        },
+        "src/Game/PokerTour/Logic/Player_en.jsc": {
+            "md5": "0e8d1057d28675852e63b6e66f8da364"
+        },
+        "res/ResourceMenuTab/Vip/PlistVip.png": {
+            "md5": "9f9b39a80f0ae51aba0c954e1478d9b8"
+        },
+        "src/Game/PokerTour/Logic/Card_en.jsc": {
+            "md5": "6fd630c57d1dcd6b6ec1f5651f2b1d92"
+        },
+        "src/Game/Lieng/GameGui/LiengScene_en.jsc": {
+            "md5": "4fd8175d05329be6d3e7377f7cd69510"
+        },
+        "src/Game/BaiCao/GameGui/BaiCaoScene_en.jsc": {
+            "md5": "431a7691927eee170363dd5e5fba5e4b"
+        },
+        "src/Game/BaCay/Network/BaCayListener_en.jsc": {
+            "md5": "b5d74ca7c6006b90c5be9c936c659b88"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinAudio_en.jsc": {
+            "md5": "68f98d1f55c56f130e006e03e204433b"
+        },
+        "res/MenuSlots/icon/de_che_la_ma.png": {
+            "md5": "4126067e17adeb4966dce268077804bd"
+        },
+        "res/CardGame/CommonResource/BanChoi/PlistBanChoi.png": {
+            "md5": "c14ed20ee936793c5990f09dcb0255f6"
+        },
+        "src/Game/CoUp/GameGui/PlayerDisplay_en.jsc": {
+            "md5": "1dfd1ebee9d351600790dafe38e2d800"
+        },
+        "src/Game/TienLen/GuiGame/EffectLayer_en.jsc": {
+            "md5": "0bd2339c4f4533ed58d00a9e464a4dea"
+        },
+        "res/Base/Lobby/GUI/lobby-bg.jpg": {
+            "md5": "765deb9f15bf0b2f2435f0e84de0e50f"
+        },
+        "src/Game/MauBinh/Logic/MauBinhCard_en.jsc": {
+            "md5": "cb226febefb4cfa4f30078ade779728e"
+        },
+        "res/Minigame/TaiXiu/version.manifest": {
+            "md5": "a2b5c6c9815295ab1173b4804647d05b"
+        },
+        "src/Game/CoTuong/Network/InPacket_en.jsc": {
+            "md5": "c245f6c8f11ae8036b6314433f73197c"
+        },
+        "res/CardGame/Poker/bglatBai.png": {
+            "md5": "316f0756ae337e1c548ec0b2f7bf089e"
+        },
+        "src/Game/Poker/PokerTour/ThongTinGiaiDauItem_en.jsc": {
+            "md5": "182dcecf3fbc0ec09c4eedfcb6393d7a"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Quang_Sang.png": {
+            "md5": "b166bd0b2ed279d28ca8a3e29af3324f"
+        },
+        "res/CardGame/TienLen/sanhRong.png": {
+            "md5": "9de38d3fc041c4b4b3b28ac3ef43e81e"
+        },
+        "src/Game/CoCaro/Network/InPacket_en.jsc": {
+            "md5": "f5e1e3deb6f49d5ac933f19ec05d87dd"
+        },
+        "src/Game/common/md5_en.jsc": {
+            "md5": "fc0c7b9dd2ab0e39b9d4d2afd3df2e92"
+        },
+        "res/CardGame/PokerTour/PlistPokerTour2.plist": {
+            "md5": "b2d55cc45c3356f924ba39b27e6dd185"
+        },
+        "script/ccui/jsb_ccui_create_apis.jsc": {
+            "md5": "2a1c9beeaf8a977ddc415661b0c066de"
+        },
+        "src/Game/Lobby/Content/UserInfo_en.jsc": {
+            "md5": "7350b5848baf82df941ed1bdea98bdc9"
+        },
+        "src/Game/MenuInfo/code_event_vip_en.jsc": {
+            "md5": "5efd65830b4c867769fbcad299646e71"
+        },
+        "res/ResourceMenuTab/Shopping/bank/PlistBank.plist": {
+            "md5": "cc7e778cd6d5b6e7c33ff24e6c0226ea"
+        },
+        "res/Font/UTM-Mobifone-KT.ttf": {
+            "md5": "f337e18aec1237bfe3e7b90f84fd2330"
+        },
+        "src/Game/BaiCao/Network/CmdBaiCao_en.jsc": {
+            "md5": "8b450eb2c6a538090c3197532fe50d94"
+        },
+        "res/CardGame/BaCay/PlistBaCay.png": {
+            "md5": "e9a703ab3204be4b5521871a59090ed7"
+        },
+        "res/CardGame/CommonResource/ChonBan/ChonBanPlist.png": {
+            "md5": "e0082bf5064388ea41ecafa56531d27c"
+        },
+        "src/Engine/Utility/Dialog_en.jsc": {
+            "md5": "69f4910d42e225d7bf4462bfd5db74a2"
+        },
+        "res/MenuSlots/dang_quay_01.png": {
+            "md5": "5ddb13bd287907922fe7ffdeb2f2e29b"
+        },
+        "res/CardGame/CommonResource/ChonBan/imageCenterVinEnabled.png": {
+            "md5": "4ef8a9f19dd095f3a85e0fd0b3fda660"
+        },
+        "src/Game/BaCay/Network/BaCayWebSocket_en.jsc": {
+            "md5": "76d95560764f35a47e3e1b802c671630"
+        },
+        "src/Game/BaCay/BaCayLogic/Card_en.jsc": {
+            "md5": "8e5926523bee43945fd11e853745f2ff"
+        },
+        "res/Sound/killPiece.mp3": {
+            "md5": "4f98391e0eedf708fd19a3b50595eb72"
+        },
+        "res/CardGame/PokerTour/PokerTour/cardOn1.png": {
+            "md5": "8c747200de3f660600b1f719334b0120"
+        },
+        "script/studio/parsers/timelineParser-1.x.jsc": {
+            "md5": "f1d8989e271c1aa145089e10593ab871"
+        },
+        "src/Game/Minigame/MagicDoor_en.jsc": {
+            "md5": "5cd75f2294879e0c8c8c1c2f2a45817f"
+        },
+        "res/CardGame/ResXocDia/xocdia-22.png": {
+            "md5": "de4d0311501b84a4e05ed979dd173abc"
+        },
+        "res/CardGame/CommonResource/ChonBan/panel_banchoi.png": {
+            "md5": "e3672089a2106a7280d5c97e72c9ef8f"
+        },
+        "src/Game/Sam/LogicGame/SamLogicUtil_en.jsc": {
+            "md5": "fd4225e7dd801c146c81bf97ae560154"
+        },
+        "res/Lobby/IconGame/tlmnsolo.png": {
+            "md5": "93c39aeb523e7ab43bc6b92a835561e0"
+        },
+        "src/Game/CoTuong/Logic/Pieces/General_en.jsc": {
+            "md5": "78ee4c0cfe487d0da68cefc939afdcb6"
+        },
+        "res/GameCo/CoTuong/killEffect/kill.plist": {
+            "md5": "9b3e393fb014cbcbc5675504947099d8"
+        },
+        "res/LoadingUI/rota3.png": {
+            "md5": "5694e8d5e07d2dda7bc2e5fb10727d84"
+        },
+        "res/ResourceMenuTab/muchu-n.png": {
+            "md5": "2cd69bd85bf0bff216c8aa593fae105d"
+        },
+        "src/Game/GuiCommon/Dialog_en.jsc": {
+            "md5": "6d4ecb544e8e5e13b5754f47d2bd5a0b"
+        },
+        "src/Game/TienLen/Network/TienLenListener_en.jsc": {
+            "md5": "8fb124c6ee034007963c29e31b7e8653"
+        },
+        "res/CardGame/Poker/buyInBg.png": {
+            "md5": "7e8b68ca5ed97049a63a4db7e1350733"
+        },
+        "res/CardGame/LaBai/labai_29.png": {
+            "md5": "5149c612a441f9b1a3129033f70b7b9b"
+        },
+        "src/Game/CoTuong/Logic/CoTuongTile_en.jsc": {
+            "md5": "7e389a27854e59bfe08383022419885c"
+        },
+        "src/Game/CoCaro/GameGui/NodeStart_en.jsc": {
+            "md5": "892b361c8f95d1a8aefccfb845362311"
+        },
+        "res/Lobby/ico_new.png": {
+            "md5": "913692b2742739b0e982676362a4718c"
+        },
+        "res/GameCo/Caro/background.png": {
+            "md5": "7fd9ecb785bee1411b6458bf695d9eb6"
+        },
+        "src/Game/Poker/Logic/Player_en.jsc": {
+            "md5": "1ba987bad33fd9fbe99d3813d7b0906b"
+        },
+        "src/Game/MenuInfo/Giftcode/GiftcodeLayer_en.jsc": {
+            "md5": "43af3786aa784cc81fa114a9c88601ae"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_03.png": {
+            "md5": "5332ddc1cfbd6c7b24b66074e6b13a3c"
+        },
+        "res/CardGame/CommonResource/EndGame/bg_engame_xeng.png": {
+            "md5": "bc6a63cdfb68449459e4a59df6fc5487"
+        },
+        "res/ResourceMenuTab/BaoMat/PlistBaoMat.png": {
+            "md5": "a00d8f59ff827f402047e93e3ab46f74"
+        },
+        "res/Minigame/ResSlotBa/project.manifest": {
+            "md5": "33a3659758bf6295cad2cd538219d00d"
+        },
+        "src/Game/Poker/PokerTour/PokerTourCard_en.jsc": {
+            "md5": "578c7cef5ed6187a07b22dce7f6dab36"
+        },
+        "src/Game/Minigame/CaoThap/codeCaoThap_vinhdanh_en.jsc": {
+            "md5": "c8a44fc98a50c7b81dde6f4a5fbe0178"
+        },
+        "res/CardGame/PokerTour/PokerTour/cardOn2.png": {
+            "md5": "76b0762c48773e5dd296c1f45fcfb9d5"
+        },
+        "src/Game/MenuInfo/VongQuayVip/LichSuVQVLayer_en.jsc": {
+            "md5": "611463c88af486bb79519ebbc787de9e"
+        },
+        "src/Game/Slots/Network/SlotsResponse_en.jsc": {
+            "md5": "1a69c4a27fc58188941bdc07e41e3535"
+        },
+        "res/CardGame/LaBai/labai_38.png": {
+            "md5": "aec257c7a9a427a1593bfb9568123951"
+        },
+        "res/MenuSlots/Plist_bai.plist": {
+            "md5": "9b07bd041956d7077ade4e753c225b08"
+        },
+        "src/Engine/Utility/StringUtility_en.jsc": {
+            "md5": "60c11c4e01f2d56cdedefeeafe2975e1"
+        },
+        "src/Game/Minigame/CaoThap/responseCaoThap_en.jsc": {
+            "md5": "f1eee044c5b12e8b92e72a4bab6d9be3"
+        },
+        "res/AvengerTopNoHu.json": {
+            "md5": "8f84f7687c6a9372ed8176d17bdb0d6f"
+        },
+        "src/Game/Sam/LogicGame/LogicGame_en.jsc": {
+            "md5": "490944c7a7f2761e7d31aec32fcd1575"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_01.png": {
+            "md5": "0015409b4410c5a6726c9a227f5b1628"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_05.png": {
+            "md5": "e3d0bc98fad003bc01cc8202bfd14746"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBau_en.jsc": {
+            "md5": "15dc7bd05b3d5923ac40cf9b9ccd7bf5"
+        },
+        "res/ResourceMenuTab/Guild/titile.png": {
+            "md5": "a6f3e1fa7a2a7016b05a219060491301"
+        },
+        "res/CardGame/PokerTour/PokerTour/cardOn4.png": {
+            "md5": "9cdca598610862279d11a0e3bae8faa7"
+        },
+        "res/Lobby/PlistLobby.png": {
+            "md5": "01fa93dadae59b680f1aca6d76efbf41"
+        },
+        "src/Game/Poker/PokerTour/BangXepHangPoint_en.jsc": {
+            "md5": "9f2c369178fcffa226ffcd58407ce0ef"
+        },
+        "src/Game/CoCaro/Constants_en.jsc": {
+            "md5": "e1f7ffc6c546d0b035adf7e47a435833"
+        },
+        "src/Game/CoUp/Logic/Pieces/Soldier_en.jsc": {
+            "md5": "dce2ce19adfe3ffd58db88522e67d240"
+        },
+        "src/Game/Poker/Network/OutPacket_en.jsc": {
+            "md5": "dcaab0648c77de14013d6eee6f3e88db"
+        },
+        "src/Game/PokerTour/GameData/Constant_en.jsc": {
+            "md5": "b7c8e01411f22f54a0c32fa925db1b93"
+        },
+        "res/GameCo/CoUp/latquanden.plist": {
+            "md5": "e909d5855591537faf35cd3d840f0bf7"
+        },
+        "src/Game/CoTuong/Logic/Pieces/Soldier_en.jsc": {
+            "md5": "0fc18bc36fb5e3c9726069b194760030"
+        },
+        "src/Game/Lobby/Gui/QuenMatKhau/NhapUsername_en.jsc": {
+            "md5": "297e14129211b93baf0e0ca806280143"
+        },
+        "src/Game/XiZach/Logic/Card_en.jsc": {
+            "md5": "a1191016f8b334774620d3cc784ea830"
+        },
+        "res/CardGame/LaBai/labai_0.png": {
+            "md5": "962e325169b83efbe0f44622ae7adaab"
+        },
+        "res/Lobby/IconGame/3cay.png": {
+            "md5": "02de53fffbf096d55f903b4d62500a35"
+        },
+        "src/Game/MenuInfo/Shopping/NapVinTheLayer_en.jsc": {
+            "md5": "ee4674d23f279a1eded1b621a1e88e3f"
+        },
+        "script/debugger/transport.jsc": {
+            "md5": "89331c90f548452d512408b79fc80e3a"
+        },
+        "src/Game/Lieng/GameGui/EffectLayer_en.jsc": {
+            "md5": "b1bf23f1eaad910eefb665778abc58f7"
+        },
+        "src/Game/Slots/NuDiepVien/NuDiepVienLSGD_en.jsc": {
+            "md5": "cfc03480f0d37aa020db9a21d15cc211"
+        },
+        "res/Fonts/tahoma.ttf": {
+            "md5": "37f3ea3bd935bcd0e390b7d36fce4422"
+        },
+        "res/Sound/place.mp3": {
+            "md5": "664f1cdb7d67933a05bb8839d5082aa0"
+        },
+        "src/Game/Lobby/Gui/QuenMatKhau/ForgetEmailPhone_en.jsc": {
+            "md5": "d6d7a701672577ba903aab2152f17c8c"
+        },
+        "res/Lobby/IconGame/khobau.png": {
+            "md5": "54fb561eaa51b423e87008140bb6d163"
+        },
+        "res/ResourceMenuTab/Profile/PlistProfile.png": {
+            "md5": "e9295e78f1b46797ef04932d2fe33e3c"
+        },
+        "src/Engine/Utility/Timer_en.jsc": {
+            "md5": "c78d002724edf2c8c97c46648ff95e3f"
+        },
+        "src/Game/CoTuong/Logic/Pieces/Horse_en.jsc": {
+            "md5": "b51d204f5b0860a3ddb58cac99dea7cd"
+        },
+        "src/Game/Lobby/lobby_en.jsc": {
+            "md5": "2a21cb9ac7d622423d8a4f2f5d88fd14"
+        },
+        "src/Game/BaCay/GameGui/PlayerDisplay_en.jsc": {
+            "md5": "e6f9933cd2379ee19dd253df71194238"
+        },
+        "res/CardGame/LaBai/labai_6.png": {
+            "md5": "c0de9ab4454b327d8c99f82f57f0e563"
+        },
+        "res/CardGame/LaBai/labai_26.png": {
+            "md5": "8da7e160a068f7ed216146c126e876b8"
+        },
+        "res/Lobby/bg_content.png": {
+            "md5": "c59b48c462a28eeea342ba051ce75f58"
+        },
+        "res/CardGame/Lieng/LiengPlist.plist": {
+            "md5": "b6392849f67f07a26140acc47b72dd09"
+        },
+        "src/Game/PokerTour/GameGui/BangMenuTour_en.jsc": {
+            "md5": "8d3b3e3bbb824d9eef4dd505f0f22c4f"
+        },
+        "res/LoadingUI/rota1.png": {
+            "md5": "14842585cbfa567b1cb141041def00ca"
+        },
+        "src/Game/Popup/popup_en.jsc": {
+            "md5": "3abf3d00b901fc12eafd82937bcb680d"
+        },
+        "src/Game/MenuInfo/Sercurity/QuanLyGameLayer_en.jsc": {
+            "md5": "b5c41726f8c11debcc0e4260e85e1438"
+        },
+        "res/CardGame/ResXocDia/Sound/addPhing3.mp3": {
+            "md5": "609fd2714e1e2061725012b7e27512ec"
+        },
+        "src/Game/CoUp/Logic/Pieces/Elephant_en.jsc": {
+            "md5": "f949fa6b360bdff25ed14ea97d4b62d1"
+        },
+        "src/Engine/Utility/Toast_en.jsc": {
+            "md5": "27bfe57a8055acb69802611984b577b6"
+        },
+        "src/Game/GuildEvent/quydinh_shopping_en.jsc": {
+            "md5": "0f996dd3ac211e27da6b4241a711890d"
+        },
+        "script/studio/parsers/scene-1.x.jsc": {
+            "md5": "ff0c9825cf1920625f66b57ab2b83c8e"
+        },
+        "src/Game/Slots/AudioMenu/MenuAudio_en.jsc": {
+            "md5": "5eb099026e5984a3f864f6ab5f78cbda"
+        },
+        "src/Game/Sam/Network/OutPacket_en.jsc": {
+            "md5": "0469bfa71e549e1caa3733dd029fefe2"
+        },
+        "script/jsb_audioengine.jsc": {
+            "md5": "cd982175d1d5b896d3c1d713d62b8935"
+        },
+        "res/Minigame/ResMiniPoker/version.manifest": {
+            "md5": "8548bcb2168cd6e6e73694a0c5156c34"
+        },
+        "src/Game/Sam/GuiGame/PlayerHold_en.jsc": {
+            "md5": "7018f42d66491e758a9fe3759e55efa3"
+        },
+        "src/Engine/Utility/EventHandlerManager_en.jsc": {
+            "md5": "c86b52d0859dbfa7da772d85f6843a0a"
+        },
+        "src/Game/GuiCommon/TopCaoThuLayer_en.jsc": {
+            "md5": "6f3cc7653dcf4490241032c1f23d50b2"
+        },
+        "src/Game/CoUp/Logic/Pieces/Cannon_en.jsc": {
+            "md5": "da8d8f9cf01d4aa1c10848aaff5cb4d8"
+        },
+        "res/CardGame/BaCay/PlistBaCay.plist": {
+            "md5": "a4886d2ff6b0cd5f8b0f825fdedb70dc"
+        },
+        "src/Game/MenuInfo/MenuTab/HuGame/HuGameLayer_en.jsc": {
+            "md5": "6afb387ba40599e73af24b0b854ff6b5"
+        },
+        "src/Game/MenuInfo/Shopping/NapTienTraSauLayer_en.jsc": {
+            "md5": "b445b152083be261bdf329557045b0a9"
+        },
+        "src/Game/Minigame/CaoThap/codeCaoThap_sanbai_en.jsc": {
+            "md5": "b0384d960bc0b8ded97d4815a2e28830"
+        },
+        "res/Minigame/ImageChung/number_backall_s.png": {
+            "md5": "6861904506f3bedb480ac842b4df38f6"
+        },
+        "src/Game/CoTuong/GameGui/EffectLayer_en.jsc": {
+            "md5": "d07fd2c2ca1604ccd117ef59927857a9"
+        },
+        "res/CardGame/CommonResource/ChonBan/tab_new.png": {
+            "md5": "4faeb53e4fa40c2ca806692d2e9730d9"
+        },
+        "src/Game/GameMng/GameScenePool_en.jsc": {
+            "md5": "b5230cc454eb9db2702356d4e845b7e5"
+        },
+        "res/Font/UTM-Aurora.ttf": {
+            "md5": "399be411d5650470c62e34ae493fbf81"
+        },
+        "src/Game/Networks/MainWebsocket/cmdDefine_en.jsc": {
+            "md5": "d200c3817d3f997bffaa9f12b478b46b"
+        },
+        "res/GameCo/CoUp/CoUpPlist.plist": {
+            "md5": "cc764b7579ae76a569afb9cece177a06"
+        },
+        "res/Font/XengFont03/XengFont3_export2x.png": {
+            "md5": "35b7264bbb19242a412e5d1b81946454"
+        },
+        "src/Game/XiZach/Network/OutPacket_en.jsc": {
+            "md5": "b162f11bc2b25dd7b35423c27bd87950"
+        },
+        "src/Game/XiZach/Network/CmdDefine_en.jsc": {
+            "md5": "007d21375280149c6006f145cf62c4e3"
+        },
+        "src/Engine/Network/WsClient_en.jsc": {
+            "md5": "2e15465024f0d52e632dfd4d6f13e780"
+        },
+        "res/MenuSlots/Plist_bai.png": {
+            "md5": "1d58638e80a04e86a4898413b1001c4d"
+        },
+        "res/ResourceMenuTab/lichsugiaodich/btn_xemchitiet.png": {
+            "md5": "b9a2a401811b466a3df95a7e262ac5a9"
+        },
+        "src/Game/PokerTour/Network/PokerTourListener_en.jsc": {
+            "md5": "45ec8f426c833f84e20066b1ee3ead29"
+        },
+        "res/Font/XengFont02_silver/XengFont02_silver_export2x.fnt": {
+            "md5": "28919e52c2b975aaebd714d88ca15642"
+        },
+        "res/Minigame/ResVQMM/version.manifest": {
+            "md5": "33a3659758bf6295cad2cd538219d00d"
+        },
+        "res/Font/Roboto-Italic.ttf": {
+            "md5": "93b13a58dedeebe519846555a543523b"
+        },
+        "src/Game/Sam/Network/SamWebSocket_en.jsc": {
+            "md5": "20eee219b297b10dc10b5ff8f00b1daa"
+        },
+        "res/Font/XengFont03/XengFont3_export2x.fnt": {
+            "md5": "d3bdd2ed00cd85c0b95c43b98bf5398b"
+        },
+        "res/Minigame/ImageChung/btn_close_allbang.png": {
+            "md5": "44a30746b160666e081dfbf704755bb9"
+        },
+        "res/CardGame/LaBai/labai_40.png": {
+            "md5": "89d0ab852a5af1c0314437a3b019bc0e"
+        },
+        "src/Game/GuiCommon/CheatLayer_en.jsc": {
+            "md5": "8421658865704eb98f558387f0bbee70"
+        },
+        "res/CardGame/PokerTour/PokerTour/cardDis4.png": {
+            "md5": "f25b2fc125c8cfee8639d79c4429bb78"
+        },
+        "src/Game/MauBinh/Logic/MauBinhMatchMgr_en.jsc": {
+            "md5": "2688025b16d3fb305cfeda392380ed6c"
+        },
+        "script/jsb_opengl.jsc": {
+            "md5": "531c1d6431d67aa3d1bd987b6ec6061c"
+        },
+        "src/Game/GuiCommon/BangLichSuTheLeHuVang_en.jsc": {
+            "md5": "0ab3503909b7bdfad4ed57f1a405380f"
+        },
+        "src/Game/Poker/GameGui/BuyInLayer_en.jsc": {
+            "md5": "4e21b7d8d8f0ea5dc84ca4b14c639b07"
+        },
+        "src/Game/MenuInfo/Profile/ChangeAvatarLayer_en.jsc": {
+            "md5": "993ec201a67930618901b8a81b16ff29"
+        },
+        "res/favicon.ico": {
+            "md5": "a07e638c37d5552a9c4c4ca73df1d25d"
+        },
+        "src/Game/Slots/VuongQuocVin/Particle/VQVParticle_en.jsc": {
+            "md5": "1bfd5313fe2f33cfc64cfa39a689a82b"
+        },
+        "src/Game/CoCaro/Network/CoCaroListener_en.jsc": {
+            "md5": "f0996ef5e660aeccc895d5ad13912ba4"
+        },
+        "script/studio/parsers/action-2.x.jsc": {
+            "md5": "f05ae44d04f0bbdcae2e68e87820c894"
+        },
+        "res/MenuSlots/dung_quay.png": {
+            "md5": "ea8b7fccddd286e03f081278eaaaf60f"
+        },
+        "src/WebResource_en.jsc": {
+            "md5": "3a4ce29cd1462b9148fcf4708e87dbec"
+        },
+        "res/ResourceMenuTab/Guild/minislot4.png": {
+            "md5": "731b22d84bbf30d61d3780c8ae345bc2"
+        },
+        "res/Lobby/IconGame/samloc.png": {
+            "md5": "fb035cec81473373c02475e035af813a"
+        },
+        "src/Game/Lobby/Gui/QuenMatKhau/ThongBaoOtp_en.jsc": {
+            "md5": "9eab79753bcde1f9f4649c8ed2df2db1"
+        },
+        "script/jsb_debugger.jsc": {
+            "md5": "f66855ae05d1b3afabb11e106a5ecdde"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Background_Vong_a.png": {
+            "md5": "e70e9eb0b1d3cc8c0ee834decdea5c16"
+        },
+        "src/Game/MauBinh/Logic/GameConfig_en.jsc": {
+            "md5": "0b5bc9c84cf9ba00ab4d6d6cec77c8f3"
+        },
+        "res/DeCheThanhRome/version.manifest": {
+            "md5": "4f1f231d79f90404e96754037b1f6597"
+        },
+        "src/Game/MauBinh/GUI/GameGui_en.jsc": {
+            "md5": "3f8c5777cf8dd563a2e17641ed6ba72a"
+        },
+        "res/MenuSlots/hieu_ung/PlistHieuUng.png": {
+            "md5": "ac6c0d5ac7f74d6c330cd1500adb1c86"
+        },
+        "src/Game/Slots/VuongQuocVin/VuongQuocVinContent_en.jsc": {
+            "md5": "12650c9e18bd36910226b12dccb4c9b0"
+        },
+        "src/Game/Networks/CardGame/CMDCommonDefine_en.jsc": {
+            "md5": "d3529722177b97aecb2f7d7a6f64bb08"
+        },
+        "src/Game/Minigame/MiniPoker/codeMiniPoker_lichsu_en.jsc": {
+            "md5": "c0bb581e7f582452aff2a126f071b1c0"
+        },
+        "src/Game/BaiCao/Network/BaiCaoListener_en.jsc": {
+            "md5": "3bc914fb8c3042074c0d3ff3e64bb2fb"
+        },
+        "res/GameCo/Caro/Effect/Glowthua.png": {
+            "md5": "6a0d77d8abd73ec51c4f33194b4ee86d"
+        },
+        "res/common/nohuvang/no_hu_glow.png": {
+            "md5": "b1ce0669b9da52ab4397bbe2cd424044"
+        },
+        "src/Game/TienLen/GameData/Constant_en.jsc": {
+            "md5": "f4e5a4ee9f972a531d0d50ea2c6627fa"
+        },
+        "src/Game/Sam/Network/InPacket_en.jsc": {
+            "md5": "fca20d38098e032839c601ecca36a47b"
+        },
+        "script/jsb_spine.jsc": {
+            "md5": "741c13798d58ef836303d7f47ff059b8"
+        },
+        "src/Game/Poker/GameGui/NewPokerCard_en.jsc": {
+            "md5": "d182b5d94354709836bf5fe42518810a"
+        },
+        "res/GameCo/CoTuong/table.png": {
+            "md5": "74ae33146826abdc3f88954c8f1a5594"
+        },
+        "src/Game/CoUp/Logic/Logic_en.jsc": {
+            "md5": "b6785901e2d2f44f46c185f5e3da7806"
+        },
+        "res/CardGame/BaCay/bg_nanbai.png": {
+            "md5": "16e954b84bce9921162e8ea70233c136"
+        },
+        "res/Lobby/IconGame/taixiu.png": {
+            "md5": "82976715a5316576efb5d1de50446d6b"
+        },
+        "src/Game/Networks/TaixiuSocket/InPacketTaiXiu_en.jsc": {
+            "md5": "54a7de6f9493829997f3848bb912b907"
+        },
+        "res/DeCheThanhRome/project.manifest": {
+            "md5": "4f1f231d79f90404e96754037b1f6597"
+        },
+        "src/Game/Lieng/Logic/BoBaiLieng_en.jsc": {
+            "md5": "fc8ac65293f817319e794c32ca6dedd3"
+        },
+        "res/CardGame/ResXocDia/bg_scroll.png": {
+            "md5": "c8ef47485fec4f4c5c50649be3f7eadd"
+        },
+        "res/Font/UTM_Swiss_Condensed.ttf": {
+            "md5": "acdee77b7b507e642cef27a99dad68f7"
+        },
+        "src/Game/Networks/MainWebsocket/responseMinigame_en.jsc": {
+            "md5": "50c4eb9d34fa597d4e7baea987533d57"
+        },
+        "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_08.png": {
+            "md5": "ee608d0bae6cd8f7f339f378c75d2b1c"
+        },
+        "res/MenuSlots/Plist_slots.plist": {
+            "md5": "576655847a15f0591b648cc033d5a436"
+        },
+        "res/CardGame/ResXocDia/Sound/Xoc_dia.mp3": {
+            "md5": "94fd71df1c63d9d7d150e3a94790e06b"
+        },
+        "src/Game/MenuInfo/LichSuGiaoDich/ChiTietLSGDLayer_en.jsc": {
+            "md5": "dd8726bde41c4176e1bec2de7850f706"
+        },
+        "src/Game/Poker/GameGui/EffectLayer_en.jsc": {
+            "md5": "79497537b0e27bc09dafedddcc679d91"
+        },
+        "src/Game/MenuInfo/Shopping/NapXuLayer_en.jsc": {
+            "md5": "f4130aeaae569d367643e24bd6c01d67"
+        },
+        "res/ResourceMenuTab/Profile/animation-duaxe1.png": {
+            "md5": "6036e6c72115ac48ebe45e9ec2292840"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauTheLeX2_en.jsc": {
+            "md5": "5328f970d61d838a72923e60f993c1e8"
+        },
+        "src/Game/BaiCao/GameGui/CardSprite_en.jsc": {
+            "md5": "5c0e02182a2382e6068402a399b46e49"
+        },
+        "res/Font/XengFont02_silver/XengFont02_silver_export.fnt": {
+            "md5": "951d3b98da003384214609ed6be00eb6"
+        },
+        "src/Game/CoCaro/GameGui/EffectLayer_en.jsc": {
+            "md5": "aab83047c565933ac3006c50f41d00cd"
+        },
+        "script/chipmunk/jsb_chipmunk.jsc": {
+            "md5": "0b9a3865fbc3d8994ff8dbbd09f8c8f4"
+        },
+        "src/Game/MauBinh/Network/CmdDefine_en.jsc": {
+            "md5": "b451d14f32eb62813c59f377d3e4f57b"
+        },
+        "src/Engine/Custormize/CCNode_en.jsc": {
+            "md5": "5e8368d2f5eb90a5380016a5d89251f1"
+        },
+        "src/Game/Networks/BaseSocket_en.jsc": {
+            "md5": "85beec377122e7af8487572f0d25a153"
+        },
+        "src/Game/MenuInfo/Sercurity/ChangeMobileLayer_en.jsc": {
+            "md5": "58a8934a84133a1d11524766b0e6a46d"
+        },
+        "src/Game/Networks/CardGame/CardGameListener_en.jsc": {
+            "md5": "06f4d11a6ce681805a200fbefb29d329"
+        },
+        "res/Sound/win.mp3": {
+            "md5": "5ec51b2effb10fcac913c83ccc37c74e"
+        },
+        "src/Engine/Utility/ConnectNative_en.jsc": {
+            "md5": "81158a06c69e115d38595b77bb806973"
+        },
+        "res/Font/Roboto-Medium.ttf": {
+            "md5": "9745415b8a2a8b9a2480a12f7e2d3ad3"
+        },
+        "script/studio/jsb_studio_create_apis.jsc": {
+            "md5": "9f5387999cf32098f19db9162071fe4b"
+        },
+        "res/CardGame/ResXocDia/animation/Dealer3_animation/dealer3Plist.png": {
+            "md5": "2c2ba1f0af3c49fe0788b94e7b6e63b7"
+        },
+        "script/extension/jsb_ext_create_apis.jsc": {
+            "md5": "ffc948a8cf4e8c53b087d4caa4575a51"
+        },
+        "res/Popup/alertBg.png": {
+            "md5": "2732aff76307f62f18abd38295a1cbeb"
+        },
+        "src/Game/Lieng/GameGui/BuyInLayer_en.jsc": {
+            "md5": "dfbcad86044f06a26aa1cdb3fff941e7"
+        },
+        "res/CardGame/PokerTour/bangxephangpoint/bangpokertour-08.png": {
+            "md5": "86f869d96a5145b882ec6900eaaa1523"
+        },
+        "res/Minigame/PlistMiniGame.png": {
+            "md5": "8692ba45a661f7fcb5f92062ff67d835"
+        },
+        "res/CardGame/LaBai/labai_15.png": {
+            "md5": "d995ed82ef4a709eec0fe66887fc4c52"
+        },
+        "src/Game/BaiCao/GameGui/BaiCaoItemEndGame_en.jsc": {
+            "md5": "8e7da4558473f7e72005bf9d7046f826"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauLSGD_en.jsc": {
+            "md5": "19977326af1cf0d4b723292069a676dd"
+        },
+        "res/ResourceMenuTab/PlistResourceMenuTab.plist": {
+            "md5": "ddef6696b2455fe50af1004f9076a03b"
+        },
+        "src/Game/Sam/GuiGame/GameScene_en.jsc": {
+            "md5": "270391104a30d5f413eef4523141e9e5"
+        },
+        "res/Avenger/project.manifest": {
+            "md5": "440863986f72efa0758d612765b07ed6"
+        },
+        "res/CardGame/PokerTour/PokerTour/cardDis2.png": {
+            "md5": "dc1892b1aa6c4132f55c31e9815c317f"
+        },
+        "src/Game/CoTuong/GameGui/Popup_en.jsc": {
+            "md5": "eac88c5336dd3667956bd3d7ad26cffd"
+        },
+        "src/Game/PokerTour/GameGui/EffectLayer_en.jsc": {
+            "md5": "ada8beeec94c103b5c9828528568bc70"
+        },
+        "src/Game/CoUp/Logic/Pieces/Guard_en.jsc": {
+            "md5": "b628093279d70e9db94621f7514b86a4"
+        },
+        "src/Game/BaCay/GameGui/BaCayScene_en.jsc": {
+            "md5": "c574258bc89f3641a7f5c0fbafbf457b"
+        },
+        "src/Game/MenuInfo/MenuTab/HuGame/ItemHuGame_en.jsc": {
+            "md5": "04cdb59fe713ca5fd81b65ca79a61223"
+        },
+        "src/Game/TienLen/GuiGame/GameScene_en.jsc": {
+            "md5": "0291127debd4523f989e12d6279ed309"
+        },
+        "res/CardGame/CommonResource/DiemBoBai/diem3Cay/shadown.png": {
+            "md5": "12381832e424aab3e164be595b98ff61"
+        },
+        "src/Game/Lieng/Network/CmdDefine_en.jsc": {
+            "md5": "e8db7b9870f161fe50e4d2c01a0cce21"
+        },
+        "src/Game/BaCay/BaCayLogic/Player_en.jsc": {
+            "md5": "f100b875943f3761a06a88fc06b0f879"
+        },
+        "src/Game/Sam/GuiGame/CardSprite_en.jsc": {
+            "md5": "69083ab4cc9cdcf9c215572acf46c8d7"
+        },
+        "src/Game/GameMng/GameData_en.jsc": {
+            "md5": "514136e29a17a70aef07d8f3ec884f18"
+        },
+        "src/Game/MenuInfo/MenuInfoLayer_en.jsc": {
+            "md5": "7b553108cab3e637c5d5200301ea89d9"
+        },
+        "res/chat/chatPlist.plist": {
+            "md5": "a38aae204ea4d0363b2656f6a5898e44"
+        },
+        "res/MenuSlots/icon/sieu_anh_hung.png": {
+            "md5": "8a94a4fd74b3b7efdcc19db2656fcfd1"
+        },
+        "src/Game/Lobby/Content/MenuDefine_en.jsc": {
+            "md5": "af95b4a4418b188eb7cacc03bb5e62c2"
+        },
+        "src/Game/PokerTour/GameGui/CardSprite_en.jsc": {
+            "md5": "138e84bc4290c84996c26f95e150f348"
+        },
+        "res/GameCo/Caro/Effect/Glow.png": {
+            "md5": "1be56d10206dcb599a6e7e040ba20dc2"
+        },
+        "src/Game/PokerTour/Logic/GameLogic_en.jsc": {
+            "md5": "419245825b2e8ea284b534829c6f01dc"
+        },
+        "res/CardGame/LaBai/labai_27.png": {
+            "md5": "01db20106c8d302938958ca21f8283d0"
+        },
+        "src/Game/Lobby/Gui/RegisterLayer_en.jsc": {
+            "md5": "6aeb51311073351ac6713a47e501ea72"
+        },
+        "script/jsb_opengl_constants.jsc": {
+            "md5": "8c23e954c857fd4075c84759827bc5c9"
+        },
+        "src/Game/XocDia/Network/OutPacket_en.jsc": {
+            "md5": "73af05bdf409b038cd785529922b17fc"
+        },
+        "res/Minigame/BauCua/version.manifest": {
+            "md5": "b9458f1a823a97d83fcc5e87251d468b"
+        },
+        "res/CardGame/LaBai/labai_39.png": {
+            "md5": "775bbdc0669aa63461ab1cb43ab607bc"
+        },
+        "res/Sound/vs.mp3": {
+            "md5": "bf52720204c8eca016ef14e9a6c4a9c0"
+        },
+        "res/ResourceMenuTab/Shopping/bank/next.png": {
+            "md5": "2bc905685587f83ddf00e4a0274e9b98"
+        },
+        "src/Game/Lobby/Gui/LoginOTPLayer_en.jsc": {
+            "md5": "7af49a5077260d039756a28bc8e74c47"
+        },
+        "src/Game/Slots/Avenger/AvengerChoiThu_en.jsc": {
+            "md5": "b8654a95c5d2893e6312196b032cd897"
+        },
+        "res/Lobby/bg_banner_text.png": {
+            "md5": "92dcc0bc1cee5f385f13d20ec861f089"
+        },
+        "res/Popup/smallPopupBg.png": {
+            "md5": "831665ba9b47ef78792c4721365d8af1"
+        },
+        "res/Font/tahoma.ttf": {
+            "md5": "37f3ea3bd935bcd0e390b7d36fce4422"
+        },
+        "src/Game/XocDia/Logic/AudioXocDia_en.jsc": {
+            "md5": "440118949d276713f4bf05fbe3fb61ae"
+        },
+        "src/Game/CoCaro/Network/CoCaroSocket_en.jsc": {
+            "md5": "a98bae2eb36e39cc9c4776d2238b4c75"
+        },
+        "res/CardGame/BaCay/bg_bangketqua.png": {
+            "md5": "3611832ebde0001eabb5fd09c58a2283"
+        },
+        "src/Game/PokerTour/GameGui/ThongTinGiaiDauItem_en.jsc": {
+            "md5": "182dcecf3fbc0ec09c4eedfcb6393d7a"
+        },
+        "res/ResourceMenuTab/Guild/minipoker.png": {
+            "md5": "8754492bb41601960a7afd115b5d0daf"
+        },
+        "src/Game/Minigame/BauCua/responseBauCua_en.jsc": {
+            "md5": "eb85df6ba02078eb7ae8af35e85aefd4"
+        },
+        "src/Game/BaCay/GameGui/BaCayEndGame_en.jsc": {
+            "md5": "57ca63b6790c0826c1e440be18fa68e2"
+        },
+        "res/ResourceMenuTab/Shopping/button_vinplus.png": {
+            "md5": "b655c00e982ef380d8321646755736eb"
+        },
+        "res/Minigame/ImageChung/gio_vang_x2.png": {
+            "md5": "e8ecec6300ef46de44ada9d01ad2d30d"
+        },
+        "res/CardGame/ResXocDia/dealer_2.png": {
+            "md5": "9baf68d8cd078df910cf039b2748d378"
+        },
+        "res/Minigame/ResCaoThap/project.manifest": {
+            "md5": "6aa40783c9c26a2a38de35d4992ef9d5"
+        },
+        "res/KBTopNoHu.json": {
+            "md5": "65e8d6c36a68329092d6ee2f4137b8b3"
+        },
+        "res/MenuSlots/dung_nor.png": {
+            "md5": "9828e17beab587101147ee548abf5033"
+        },
+        "src/Game/TienLen/GuiGame/PlayerDisplay_en.jsc": {
+            "md5": "70d1c84a88a980bd0ed78544d127181a"
+        },
+        "src/Game/GameUtility/GameAlert_en.jsc": {
+            "md5": "59071f52d9e74febfb6c38187f11c3a5"
+        },
+        "res/CardGame/LaBai/labai_9.png": {
+            "md5": "2a51f0ed74fac9c9e0130a6a0159c6fa"
+        },
+        "res/MenuSlots/X2.png": {
+            "md5": "f2812fd27d06eef2155ac7fc807c45db"
+        },
+        "src/Engine/Network/SocialManager_en.jsc": {
+            "md5": "4cb942d28e8f7b64d17fcc6b82490c47"
+        },
+        "src/Game/BaCay/Constants_en.jsc": {
+            "md5": "366025e3be8c3f398316c8c70a32c031"
+        },
+        "res/ThanBien/version.manifest": {
+            "md5": "030648ab5be9467505fb7b5c1ec3ea1b"
+        }
+    },
+    "remoteVersionUrl": "http://j2nwskh4qa.vcdn.com.vn/mobile2/version.manifest",
+    "version": "1.0.26",
+    "engineVersion": "3.16",
+    "remoteManifestUrl": "http://j2nwskh4qa.vcdn.com.vn/mobile2/project.manifest"
+}
